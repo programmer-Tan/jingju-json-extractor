@@ -55,19 +55,43 @@ def extract_synopsis_commentary(text: str):
     
     return synopsis, commentary
 
-def extract_alternative_title(text: str) -> str:
-    """提取剧本别名，例如“空城计（一名抚琴退敌）”"""
-    patterns = [
-        r'[（(]一名\s*([^）)]+)[）)]',          # 括号内“一名XXX”
-        r'^一名\s*([^。\n]+)',                # 行首“一名XXX”
-        r'《[^》]+》（一名([^）]+)）',          # 书名号后括号
-        r'[（(]一名：?\s*([^）)]+)[）)]',       # 带冒号变体
-    ]
-    for pattern in patterns:
-        match = re.search(pattern, text, re.MULTILINE)
+def extract_alternative_titles(text: str) -> list:
+    """
+    提取剧本所有别名，返回列表，例如 ['陈宫计', '中牟县']
+    支持格式：
+    - 一名：《陈宫计》
+    - 一名《陈宫计》
+    - 一名：陈宫计
+    - （一名抚琴退敌）
+    - 《空城计》（一名抚琴退敌）
+    - 一名《陈宫计》，一名《中牟县》
+    """
+    # 只取文本前 2000 字符，避免正文干扰
+    head = text[:2000]
+    aliases = []
+    
+    # 1. 匹配所有 “一名” 后的内容（书名号内或普通文字）
+    # 模式：一名后跟可选冒号/空格，然后捕获（书名号内的内容 或 连续非标点字符）
+    pattern = r'一名\s*[:：]?\s*(?:《([^》]+)》|([^《》\n。；，,、]+))'
+    matches = re.findall(pattern, head)
+    for match in matches:
+        # match 是元组，第一个是书名号内内容，第二个是无书名号内容
+        alias = match[0] if match[0] else match[1]
+        if alias:
+            aliases.append(alias.strip())
+    
+    # 2. 如果没有找到“一名”，尝试匹配括号内的书名号（如（《双官诰》））
+    if not aliases:
+        match = re.search(r'[（(]《([^》]+)》[）)]', head)
         if match:
-            return match.group(1).strip()
-    return ""
+            aliases.append(match.group(1).strip())
+    
+    # 3. 去重（保留顺序）
+    unique = []
+    for a in aliases:
+        if a not in unique:
+            unique.append(a)
+    return unique
 
 async def process_one_pdf(pdf_path: Path, output_dir: Path, error_dir: Path):
     file_id = pdf_path.stem
@@ -91,8 +115,8 @@ async def process_one_pdf(pdf_path: Path, output_dir: Path, error_dir: Path):
         return
     
     synopsis, commentary = extract_synopsis_commentary(text)
-    alternative_title = extract_alternative_title(text)
-    print(f"[DEBUG] 情节:{len(synopsis)} 注释:{len(commentary)} 别名:{len(alternative_title)}")
+    alternative_titles = extract_alternative_titles(text)
+    print(f"[DEBUG] 情节:{len(synopsis)} 注释:{len(commentary)} 别名数:{len(alternative_titles)}")
     
     try:
         result = await extract_json_from_text(text, file_id)  # max_tokens 已在函数内设为 16000
@@ -111,7 +135,7 @@ async def process_one_pdf(pdf_path: Path, output_dir: Path, error_dir: Path):
     
     result["synopsis"] = synopsis
     result["commentary"] = commentary
-    result["metadata"]["alternative_title"] = alternative_title
+    result["metadata"]["alternative_titles"] = alternative_titles  # 改为数组
     
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)

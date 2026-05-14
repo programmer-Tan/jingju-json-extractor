@@ -6,7 +6,7 @@ JSON_SCHEMA_DESCRIPTION = """
   "metadata": {
     "file_id": "字符串，PDF文件名（不含扩展名）",
     "title": "字符串，剧本名称",
-    "alternative_title": "字符串，别名（如'抚琴退敌'），无则空",
+    "alternative_titles": ["字符串数组，别名列表（如['抚琴退敌', '空城计']），无则空数组"],
     "period": "字符串，历史时期（如三国、唐朝等，未知则空）",
     "total_scenes": "整数，总场次数"
   },
