@@ -19,37 +19,31 @@ if not all([API_KEY, BASE_URL, MODEL_ID]):
 client = AsyncOpenAI(api_key=API_KEY, base_url=BASE_URL)
 
 def is_truncated_json(text: str) -> bool:
-    """检测JSON是否被截断（找不到闭合的}或者解析时出现特定错误）"""
+    """检测JSON是否被截断"""
     text = text.strip()
-    # 快速检查：以 ... 结尾或者最后不是 }
     if text.endswith('...') or (text.count('{') > text.count('}')):
         return True
-    # 尝试解析，如果出错可能是截断
     try:
         json.loads(text)
         return False
     except json.JSONDecodeError as e:
-        # 如果是字符串未终止、期望更多内容等错误，可能是截断
         if "Unterminated" in str(e) or "Expecting" in str(e):
             return True
         return False
 
 def extract_json_robust(raw: str) -> dict:
-    """提取JSON，尝试多种方式，如果失败则抛出详细错误"""
+    """鲁棒提取JSON"""
     raw = raw.strip()
-    # 尝试直接解析
     try:
         return json.loads(raw)
     except:
         pass
-    # 去除 markdown 标记
     match = re.search(r'```json\s*(\{.*?\})\s*```', raw, re.DOTALL)
     if match:
         try:
             return json.loads(match.group(1))
         except:
             pass
-    # 寻找最后一个完整的 { ... } 
     match = re.search(r'(\{.*\})', raw, re.DOTALL)
     if match:
         try:
@@ -58,15 +52,13 @@ def extract_json_robust(raw: str) -> dict:
             pass
     raise ValueError(f"无法提取JSON。原始内容前500字符: {raw[:500]}")
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=2, min=10, max=60))
 async def extract_json_from_text(play_text: str, file_id: str, max_tokens=8200) -> dict:
-    """异步调用大模型，支持截断时自动缩小输入重试"""
-    original_length = len(play_text)
+    """异步调用大模型，支持截断重试"""
     current_text = play_text
     
-    for attempt in range(3):  # 最多尝试3次，每次缩小输入
+    for attempt in range(3):  # 最多尝试3次缩小输入
         if len(current_text) > 12000:
-            # 第一次截断到12000，第二次10000，第三次8000
             limit = 12000 - attempt * 2000
             current_text = play_text[:limit] + "\n...[中间省略]...\n" + play_text[-2000:]
         
@@ -83,13 +75,10 @@ async def extract_json_from_text(play_text: str, file_id: str, max_tokens=8200) 
         content = response.choices[0].message.content
         print(f"[DEBUG] 返回内容长度: {len(content)} 字符")
         
-        # 检查是否截断
         if is_truncated_json(content):
             print(f"[WARN] JSON被截断，尝试缩小输入文本")
-            # 缩小输入文本（下次循环会取更小的limit）
             continue
         
-        # 尝试解析
         try:
             data = extract_json_robust(content)
             data["metadata"]["file_id"] = file_id
