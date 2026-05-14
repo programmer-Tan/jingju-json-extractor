@@ -62,7 +62,7 @@ json
     "title": "空城计",
     "alternative_title": "抚琴退敌",
     "period": "三国",
-    "total_scenes": 5
+    "total_scenes": 6
   },
   "synopsis": "三国时，马谡死读兵书...",
   "commentary": "此剧唱、做兼优者，首推小叫天...",
@@ -70,7 +70,7 @@ json
   "scenes": [...]
 }
 
-配置参数
+## 配置参数
 在 batch_process.py 中可以调整：
 
 pdf_folder：PDF 输入文件夹（默认 pdfs）
@@ -79,7 +79,7 @@ output_folder：JSON 输出文件夹（默认 output_json_1）
 
 error_folder：错误日志文件夹（默认 error_log）
 
-semaphore：并发数（默认 1，避免限流）
+semaphore：并发数（默认 5，避免限流）
 
 await asyncio.sleep(3)：每个文件处理后的固定等待秒数
 
@@ -91,7 +91,7 @@ temperature：生成温度（默认 0.1）
 
 重试策略：stop_after_attempt(5)，指数退避 min=10, max=60
 
-文件结构
+##   文件结构
 text
 .
 ├── batch_process.py        # 批处理主程序（含情节/注释/别名提取）
@@ -105,7 +105,7 @@ text
 ├── error_log/              # 错误日志
 └── README.md
 
-注意事项
+##   注意事项
 限流处理：代码默认采用串行（并发=1）且每个文件后等待 3 秒，适合大多数 API 配额（如 20 RPM）。如果您的 API 配额更高，可自行调整并发和等待时间。
 
 情节与注释：自动识别 情节、注释 标题（支持冒号），并在遇到 根据《戏考》、【第X场】、## 或空行时停止，避免误包含正文。
