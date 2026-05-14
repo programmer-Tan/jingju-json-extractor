@@ -1,0 +1,1016 @@
+{
+  "metadata": {
+    "file_id": "01001003_三娘教子",
+    "title": "三娘教子",
+    "period": "明代",
+    "total_scenes": 1
+  },
+  "characters": [
+    {
+      "name": "王春娥",
+      "role_type": "旦",
+      "role_subtype": "青衣",
+      "gender": "女",
+      "age_range": "青年",
+      "personality_keywords": [
+        "坚贞",
+        "贤淑",
+        "刚强"
+      ],
+      "identity": "薛广之妾，薛倚哥养母"
+    },
+    {
+      "name": "薛保",
+      "role_type": "末",
+      "role_subtype": "外",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "忠诚",
+        "善良",
+        "正直"
+      ],
+      "identity": "薛家老仆"
+    },
+    {
+      "name": "薛倚哥",
+      "role_type": "小生",
+      "role_subtype": "娃娃生",
+      "gender": "男",
+      "age_range": "少年",
+      "personality_keywords": [
+        "顽皮",
+        "任性",
+        "知错能改"
+      ],
+      "identity": "薛广之子，王春娥养子"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "",
+      "characters_on_stage": [
+        "王春娥",
+        "薛保",
+        "薛倚哥"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "引子",
+          "content": "守冰霜贞节为本，效寡居教子成名。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "念",
+          "content": "可叹儿夫丧镇江，每日织机度日光。但愿我儿龙虎榜，留下美名万古扬。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "奴家，王氏春娥。配夫薛广，去往镇江贸易，不想命丧镇江，多亏薛保搬尸回来，可恨张、刘二氏，见儿夫一死，一个个另行改嫁。是我对天洪誓大愿，永不改嫁，抚养前房之子，取名倚哥，南学攻书去了。我不免机房织绢便了。正是："
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "念",
+          "content": "云雾不知天早晚，雪深哪知路高低。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄慢板",
+          "content": "王春娥坐草堂自思自叹，思想起我儿夫好不惨然。遭不幸薛郎夫镇江命染，多亏了老薛保搬尸回还。奴好比南来雁失群无伴，奴好比破梨花不能团圆。薛倚儿好一似无弓之箭，老薛保好一似浪里舟船。将身儿来至在机房织绢，等候了我的儿转回家园。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "内白",
+          "content": "走吓。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "薛倚哥上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛倚哥",
+          "mode": "二黄原板",
+          "content": "有薛倚在学中来把书念，怀抱着圣贤书转回家园。众学友一个个说长道短，他道我无娘亲好不惨然。因此上回家去——"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "薛保上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "这般时候，还不见东人回来，待老奴外面看来。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛倚哥",
+          "mode": "二黄原板",
+          "content": "与母争辩，又只见老薛保站立门前。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "参见薛保。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "东人回来了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "回来呢。我妈呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "你母亲在机房织绢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "带我去见。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "且慢，随老奴后面用饭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "见过我妈，再吃饭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "你就要来吓。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "笑",
+          "content": "哈哈哈……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "就来的。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "薛保下。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛倚哥",
+          "mode": "二黄原板",
+          "content": "听说是我母亲机房织绢，走上前施一礼儿见母安。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "参见母亲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "罢了。儿吓，回来了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "回来呢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "为何今日下学甚早？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "先生不在学中，故而回来甚早。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "那书来背。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "妈吓，吃完了饭在背书。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "背了书再去用饭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "要背就得背。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "将脸朝外。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "是。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "背吓。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "妈吓，我忘了书尾。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "自有忘了书头，哪有忘了书尾的道理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "不错，忘了书头了。妈吓，你提我一句。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "曾子曰：‘吾日三省吾身。’"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "曾子曰：‘吾日三省吾身。’"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "为……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "妈吓，咱们家里为什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "为人谋面不忠乎？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "哦，为人谋面不忠乎？唬唬唬，香炉瓦灯唤唤呵唬。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "往下背。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "往下背。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "叫你往下背。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "叫你往下背。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "咀。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "咀。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "指望儿在学中攻读，谁想儿在外面贪顽，贪顽不知紧要，岂不误了儿的青春年少。还不与我跪了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "要跪就得跪。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "畜生吓！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "畜生吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄原板",
+          "content": "小奴才不读书把娘气坏，有几个年幼人儿且听来。秦甘罗十二岁身为太宰，石敬塘十三岁拜帅登台。三国中周公瑾名扬四海，七岁上学道法人称将才。十三岁在东吴挂印为帅，烧曹兵八十三无处葬埋。那都是父母养非神下降，难道说小奴才禽兽投胎？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "也罢。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "手执家法将儿来打，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛倚哥",
+          "mode": "二黄摇板",
+          "content": "你打别人孩儿好不害羞。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "妈吓，你要打，生一个打，养一个打。你打别人的孩儿，好不害羞，好不害臊。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "儿吓，这两句话，哪个教道与你？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "饭也会吃，书也会念，这两句话，还不会说么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "话倒是两句好话，可惜儿太讲迟了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "你今天不打我，我还不说呢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "哎，天吓！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "哎，地吓！白相去哉。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄原板",
+          "content": "小奴才一言问住了我，闭口无言王氏春娥。叫一声薛郎夫阴曹等我，等候了你的妻同见阎罗，我那薛郎夫吓……"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "薛保上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄原板",
+          "content": "小东人下学来机房闯祸，好一似火上又把油泼。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄原板",
+          "content": "三主母在机房啼哭闷坐，转面来问一声东人一个。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "东人。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "干什么？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄原板",
+          "content": "你的母教训你非为之过，为什么将好言当作了恶说，东人哪……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "你少管我们家里闲事。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "嗳……"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄原板",
+          "content": "这才是养子不教父之过，教不严来师之惰。老薛保进机房双膝跪落，双膝跪落，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘吓……"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄原板",
+          "content": "问三娘发雷霆却是为何？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄原板",
+          "content": "老薛保你不必苦苦哀告，三娘言来细听根苗：自古道养娇儿终身有靠，又谁知小奴才平日无故，半路途中，跌了奴一跤。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄原板",
+          "content": "劝三娘休得要珠泪双掉，老奴言来细听根苗：千看万看，看东人年纪小，望三娘念东人下世早，只留下这一根苗，必须要轻打轻责，饶恕他一遭，下次不饶。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄原板",
+          "content": "你道他年纪小，心不小，说出话来雅赛铜刀。自古道，人无有千日好，花开哪有百日姣？织什么机来把什么子教，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "也罢，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘忍耐了吧！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "割断了机头两开交。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "见三娘怒冲冲把机头割断，吓得我老薛保胆战心寒。走上前来好言相劝，尊一声三主母细听根源：都只为老东人镇江命染，是老奴千山万水，万水千山，搬尸回还。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "老奴好恨！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "恨着何来？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "恨只恨张、刘二氏，他把心肠改变，一个个反穿罗裙另嫁夫郎。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "哎呀……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "老奴好喜！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "喜从何来？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "喜只喜三主母发下洪誓大愿，你言道永不改嫁教训儿郎。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "哎呀……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘不言，老奴明白了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "明白何来？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "莫不是见那张、刘二氏心肠改变，你也要反穿罗裙另嫁夫郎？"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "哎呀……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘你要走只管走，你要嫁只管嫁。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "哎呀……"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "留下了老的老，小的小，在沿门讨饭，我也要扶养他薛门中后代香烟，哦，哦，哦，好不明白的三娘吓……"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "我哭，哭一声老薛保，叫，叫一声老掌家。都只为小奴才下学甚早，我叫他拿书来背，他一字也不晓。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘就该打。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "手执家法未曾打下，他，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "他讲些什么？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "他，他，他，他言道我不是他的亲娘。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘忍耐了吧！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "啊啊啊……老掌家……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "哦。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "听罢言来才知情，回头埋怨小东人。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "东人这里来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "干什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "这就是你的不是了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "你们两个人唱的半天，怎么我的不是？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "你下学回来，一言冒犯你母亲，就该上前，领责才是。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "什么叫“领责”？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "就是挨打。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "挨打疼不疼？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "焉有不疼之理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "你晓得疼，你替我去挨罢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "哎呀，东人哪，去与不去，但凭与你。将老奴推倒在地，倘有不测，看你母子怎生得了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "哦吓，你的唱功不好，做功倒不错。你不要哭，我去就是了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "待老奴教道于你。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "你教于我。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "现有家法在此，顶在头上，跪在你母亲面前，你就言道：“母亲吓母亲，孩儿下学回来，一言冒犯母亲，现有家法在此，望母亲高高举起，轻轻落下；打儿一下，如同十下；打儿十下，如同百下；打在儿身，痛在娘心。”你母亲有爱子之意，她就不打你了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "这两句话我会呢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "东人回来。你母亲问你，就说你自己讲的，不要说老奴教道于你。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "我晓得了。孩儿下学回来，一言冒犯母亲，现有家法在此，望母亲高高举起，轻轻落下；打儿一下，如同十下；打儿十下，如同百下；打在儿身，痛在娘心。娘吓，你饶了我吧！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "儿吓，你早有这两句话，免得为娘一场恶气。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛倚哥",
+          "mode": "白",
+          "content": "娘吓，这话不是我会说的，是老薛保教与我的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘，老奴跪下了。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄快三眼",
+          "content": "老薛保你莫跪一旁立站，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "多谢三娘。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄快三眼",
+          "content": "骂一声小奴才细听娘言："
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄原板",
+          "content": "遭不幸儿的父镇江命染，多亏了老薛保搬尸回还。有为娘不改嫁为的哪个？都只为儿年小，他年老，儿小他老，他老儿小，无依无靠，娘心不安。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "也罢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘教训了罢。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄慢板",
+          "content": "手执家法将儿来管，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "老薛保向前忙遮拦。你要打将老奴责打几下，你，你，你，你要打我的小东人，老奴心酸。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "老薛保只哭得我心好惨，他主仆的恩情重如山。走上前来用手搀，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "儿吓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "从今后读书不要贪玩。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "着吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "我的儿好好的把书来念，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "要做高官有何难？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王春娥",
+          "mode": "二黄摇板",
+          "content": "但愿得我的儿鳌头来占，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛保",
+          "mode": "白",
+          "content": "三娘，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛保",
+          "mode": "二黄摇板",
+          "content": "三娘教子万古传。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王春娥",
+          "mode": "白",
+          "content": "薛保，我儿，来吓。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "content": "王春娥、薛保、薛倚哥同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 282,
+        "lyric_ratio": 0.46,
+        "stage_direction_count": 27
+      }
+    }
+  ]
+}

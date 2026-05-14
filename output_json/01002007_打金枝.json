@@ -1,0 +1,685 @@
+{
+  "metadata": {
+    "file_id": "01002007_打金枝",
+    "title": "打金枝",
+    "period": "唐朝",
+    "total_scenes": 4
+  },
+  "characters": [
+    {
+      "name": "唐王",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "宽厚",
+        "贤明",
+        "睿智"
+      ],
+      "identity": "唐朝皇帝"
+    },
+    {
+      "name": "郭子仪",
+      "role_type": "老生",
+      "role_subtype": "外",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "忠勇",
+        "谨慎",
+        "正直"
+      ],
+      "identity": "汾阳王，唐朝功臣"
+    },
+    {
+      "name": "郭暧",
+      "role_type": "小生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "冲动",
+        "耿直",
+        "孝顺"
+      ],
+      "identity": "郭子仪之子，驸马"
+    },
+    {
+      "name": "公主",
+      "role_type": "旦",
+      "role_subtype": "青衣",
+      "gender": "女",
+      "age_range": "青年",
+      "personality_keywords": [
+        "娇纵",
+        "任性",
+        "高傲"
+      ],
+      "identity": "唐王之女，郭暧之妻"
+    },
+    {
+      "name": "皇后",
+      "role_type": "旦",
+      "role_subtype": "青衣",
+      "gender": "女",
+      "age_range": "中年",
+      "personality_keywords": [
+        "慈爱",
+        "护女",
+        "明理"
+      ],
+      "identity": "唐王皇后，公主之母"
+    },
+    {
+      "name": "太监",
+      "role_type": "丑",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "宫中内侍"
+    },
+    {
+      "name": "宫女",
+      "role_type": "旦",
+      "role_subtype": "宫女旦",
+      "gender": "女",
+      "age_range": "青年",
+      "personality_keywords": [],
+      "identity": "宫中侍女"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "金殿陈情",
+      "characters_on_stage": [
+        "唐王",
+        "皇后",
+        "公主",
+        "太监",
+        "宫女"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四太监同上，唐王上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮慢板",
+          "content": "金乌东升玉兔坠，景阳钟三响把皇催。忆昔当年遭颠沛，国乱只为杨贵妃。安禄山在河东曾起反意，兵困长安夺社稷。杨玉环被困在马嵬驿，可惜她一命受凌逼。先皇逃在西蜀地，多亏了皇兄郭子仪。血战三载狼烟息，才把逆贼剑下劈。到如今乐享太平世，河清海宴凤来仪。内侍臣摆驾九龙椅，孤王有道福寿齐。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "皇后上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "皇后",
+          "mode": "西皮摇板",
+          "content": "内侍摆驾金殿里，见了万岁辩是非。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "皇后",
+          "mode": "念白",
+          "content": "妾妃见驾，吾皇万岁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "御妻平身。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "皇后",
+          "mode": "念白",
+          "content": "万万岁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "赐坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "皇后",
+          "mode": "念白",
+          "content": "谢坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "御妻上殿，有何本奏？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "皇后",
+          "mode": "念白",
+          "content": "郭暧怒打金枝，万岁做主！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "孤王不信。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "皇后",
+          "mode": "念白",
+          "content": "万岁宣皇儿上殿一看便知明白。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "内侍，宣公主上殿。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "二宫女、公主同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "公主",
+          "mode": "念白",
+          "content": "呵吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "公主",
+          "mode": "西皮摇板",
+          "content": "忽听见皇传旨意，急忙上殿奏端的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮快板",
+          "content": "一见皇儿泪悲啼，打碎珠冠拆破衣。你与驸马因何起？一一从头奏皇知。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "公主",
+          "mode": "念白",
+          "content": "容禀，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "公主",
+          "mode": "西皮导板",
+          "content": "尊父皇容儿本奏起，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "皇儿平身，赐坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "公主",
+          "mode": "念白",
+          "content": "谢座。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "公主",
+          "mode": "西皮慢板",
+          "content": "细听儿臣奏端的：当朝的驸马太无礼，酒醉回宫把儿欺。他言道父皇的江山从何起？尽多是他们父子功劳争来的。孩儿未曾回半句，他那里拳打足又踢。不是婆婆进宫里，孩儿险些命归西。有一句话儿不好启：脱去了旧衣换新衣。父王快快传旨意，不斩驸马儿不依。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "皇后",
+          "mode": "西皮慢板",
+          "content": "君比天来臣比地，天翻地覆世间稀。郭暧打了吾皇女，打皇儿犹如把万岁欺。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "御妻休要把本奏起，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "公主哭"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "皇儿也莫泪悲啼。郭暧不是皇降罪，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "公主",
+          "mode": "念白",
+          "content": "谢父王！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "且慢，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "联恐其中儿有非。你母女暂且回宫去，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "皇后",
+          "mode": "西皮摇板",
+          "content": "我这里带皇儿转回宫里。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "皇后",
+          "mode": "念白",
+          "content": "走吓！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "公主哭，皇后、公主同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 72,
+        "lyric_ratio": 0.72,
+        "stage_direction_count": 5
+      }
+    },
+    {
+      "scene_id": 2,
+      "title": "绑子上殿",
+      "characters_on_stage": [
+        "唐王",
+        "郭子仪",
+        "郭暧",
+        "太监"
+      ],
+      "segments": [
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "内侍与孤传旨意，快宣汾阳郭子仪。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "太监",
+          "mode": "念白",
+          "content": "郭子仪上殿！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "郭暧上，郭子仪上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "奴才！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭子仪",
+          "mode": "西皮快板",
+          "content": "大骂奴才听端的：安禄山在河东曾起反意，将我主驾逼在琴西。那时为父不得地，多亏了太白先生把本提。他将为父荐朝里，挂帅才把逆贼劈。儿酒后打了皇王女，连累我白发苍苍受凌逼。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭暧",
+          "mode": "西皮快板",
+          "content": "爹爹休要怒不息，孩儿言来听端的：他既皇王玉叶体，不该与臣配夫妻；既与臣子来婚配，为论什么高来论什么低？儿今打了皇王女，论皇法不过是剥儿的皮！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭子仪",
+          "mode": "西皮快板",
+          "content": "小奴才说话大有理，问得老夫无话提。父子们同到金銮殿，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "跪下！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭子仪",
+          "mode": "西皮快板",
+          "content": "儿要端端正正跪，且待为父把本提。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮二六板",
+          "content": "九龙口内红光起，来了皇兄郭子仪。昨日皇兄寿诞日，孤未曾去拜寿，未曾赐给你的酒席。孤坐江山全仗你，从今后见孤免屈膝。内侍臣与孤忙搀起，君臣们对坐把话提。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "绑坏了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮二六板",
+          "content": "殿角下绑的何臣子？一一从头奏皇知。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭子仪",
+          "mode": "西皮摇板",
+          "content": "绑的郭暧不成器，酒后无端把君欺。请皇传旨将他斩，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "且慢，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "老皇兄做事太心急。况且驸马幼年纪，公主又是少年妻，自古道清官难断家务事，他夫妻们吵闹是常有的。孤皇传旨不降罪，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "松绑。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "驸马到后宫换朝衣。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "郭暧下。"
+        }
+      ],
+      "stats": {
+        "line_count": 56,
+        "lyric_ratio": 0.8,
+        "stage_direction_count": 3
+      }
+    },
+    {
+      "scene_id": 3,
+      "title": "释嫌封赏",
+      "characters_on_stage": [
+        "唐王",
+        "郭子仪",
+        "郭暧",
+        "太监"
+      ],
+      "segments": [
+        {
+          "type": "lyric",
+          "speaker": "郭子仪",
+          "mode": "西皮摇板",
+          "content": "万岁不降郭暧罪，背地喜煞郭子仪。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "郭子仪见驾，吾皇万岁！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "平身，赐坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "谢坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "皇兄，驸马与公主吵闹，皇兄怎么知晓？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "老臣正在银安标本，忽听内侍来报，才得知晓。万岁宣小奴才上殿，一问便知明白。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "内侍，宣驸马冠带上殿。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "太监",
+          "mode": "念白",
+          "content": "驸马冠带上殿！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "郭暧上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "适才如遇阴曹地，鬼门关前七魄归。臣郭暧见驾，吾皇万岁！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "驸马平身。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "万万岁！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "驸马为了何事，与公主吵闹？当殿奏来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "容奏：臣逢尧舜之主，蒙恩将公主匹配。自盘古以来，只有妻拜夫，那有反礼而行？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "唔，听奴才之言，把我君臣大礼，一旦抛废！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "这个……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "皇兄，此乃是公主故作威福。从今以后，将红灯撇去，也不用三四诏，驸马有何本章当殿奏来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "容奏：昨日臣父母八旬双寿，满朝文武，众家各嫂，一个个成双作对，拜寿堂前。公主不去拜寿，到也罢了。连问安二字，全然无有。大非儿媳之道。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "哈！想公主乃金枝玉叶，岂向我臣门拜寿？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "想东宫太子，他是守缺之龙，怎么过府拜寿?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "想小千岁，他乃奉了万岁的旨意。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "公主不去拜寿，也是奉了他父的旨意么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭子仪",
+          "mode": "念白",
+          "content": "这个……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "皇兄，听驸马所奏，孤皇心下明白了：昨日你二老八旬双寿，满朝文武，众家各嫂，一个个成双作对，拜寿堂前。驸马有妻，不能孝敬父母。自觉孝道有亏，是与不是？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "郭暧",
+          "mode": "念白",
+          "content": "诚如圣谕。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "唐王",
+          "mode": "念白",
+          "content": "吓，皇兄，古人有言，道是“不痴不聋，不作家翁”。从今以后，他夫妻闺房之事，你要少管。听孤旨下："
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮二六板",
+          "content": "驸马奏本孤的龙心爽，深知三纲并五常。臣心若得君欢畅，福寿齐眉永安康。老皇兄暂且回府上，孤与驸马有商量。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭子仪",
+          "mode": "西皮摇板",
+          "content": "辞别万岁下殿往，背转身来自揣详。皇恩浩荡真浩荡，天降明主掌大唐。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "郭子仪下。"
+        }
+      ],
+      "stats": {
+        "line_count": 65,
+        "lyric_ratio": 0.23,
+        "stage_direction_count": 2
+      }
+    },
+    {
+      "scene_id": 4,
+      "title": "君臣退朝",
+      "characters_on_stage": [
+        "唐王",
+        "郭暧",
+        "太监"
+      ],
+      "segments": [
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "驸马近前听旨降："
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮流水板",
+          "content": "忠臣孝子永留芳。曾记得安贼来反上，你父子领兵去到边疆。孤皇赐你大红蟒，忠孝碑匾挂高堂。再赐一口上方剑，巡查内外与宫墙。倘若是公主近心强，你只管把本一本一本奏孤皇。驸马暂且回府往，公主赔罪到汾阳。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "郭暧",
+          "mode": "西皮摇板",
+          "content": "辞别万岁下殿往，公主赔罪到汾阳。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "郭暧下。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "唐王",
+          "mode": "西皮摇板",
+          "content": "驸马犯罪难发放，难道说为皇儿斩杀忠良？死罪不降反而加赏，买动他父子们忠心好助孤皇。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众人同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 18,
+        "lyric_ratio": 0.89,
+        "stage_direction_count": 2
+      }
+    }
+  ]
+}

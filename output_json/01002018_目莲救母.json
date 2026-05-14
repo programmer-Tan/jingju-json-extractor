@@ -1,0 +1,633 @@
+{
+  "metadata": {
+    "file_id": "01002018_目莲救母",
+    "title": "目莲救母",
+    "period": "",
+    "total_scenes": 1
+  },
+  "characters": [
+    {
+      "name": "刘清提",
+      "role_type": "旦",
+      "role_subtype": "老旦",
+      "gender": "女",
+      "age_range": "老年",
+      "personality_keywords": [
+        "爱子情深",
+        "知错能改",
+        "心性摇摆"
+      ],
+      "identity": "目莲之母，因破戒毁佛堕入阴曹"
+    },
+    {
+      "name": "目莲",
+      "role_type": "小生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "至孝至善",
+        "持戒修行",
+        "神通广大"
+      ],
+      "identity": "修行僧人，俗名傅罗卜"
+    },
+    {
+      "name": "大鬼",
+      "role_type": "净",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "恪尽职守",
+        "胆小怕事",
+        "憨直诙谐"
+      ],
+      "identity": "阴曹鬼头，奉命看守丰都城"
+    },
+    {
+      "name": "众鬼卒",
+      "role_type": "净",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "阴曹差役"
+    },
+    {
+      "name": "小鬼",
+      "role_type": "丑",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "阴曹报信差役"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "",
+      "characters_on_stage": [
+        "刘清提",
+        "目莲",
+        "大鬼",
+        "众鬼卒",
+        "小鬼"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "内白",
+          "content": "哽嚇！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众鬼卒、大鬼同上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "大鬼",
+          "mode": "数板",
+          "content": "阎君命我作鬼头，作鬼头，十鬼见了九鬼愁。行善的金桥走，作恶的打不休来骂不休，哪怕小鬼作对头！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "我乃大鬼是也。阎君朝拜佛祖去了，命我看守丰都城。不免在此伺候。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "目莲上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "阿弥陀佛！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄原板",
+          "content": "在仙山奉了师父命，来到阴曹探望娘亲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "小生目莲僧。奉了师父之命，来到阴曹探望娘亲，就此走走。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄原板",
+          "content": "西方路上一只鹅，口含仙草念弥陀。连毛倒有修行意，人不修来待如何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "来此已是丰都城，待我念起咒语：唵嘛呢叭咪吽……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "啊！哪里这样惊天动地？待我看来。原来是小师傅，姓甚名谁？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "小生目莲僧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "到此何事？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "长官听了："
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄原板",
+          "content": "在仙山奉了师父命，来到阴曹探望娘亲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "你母亲姓甚名谁？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "听了："
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄原板",
+          "content": "我的母并非是别的名姓，刘氏清提就是我娘亲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "待我与你问来。众鬼卒，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众鬼卒同允。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "里面可有个刘氏清提？她子目莲僧，看望于她。有者即来打话。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "内白",
+          "content": "有！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "内二黄原板",
+          "content": "听一言不由我心内着惊，耳边厢有孩儿寻找娘亲。刘清提原本是老身的名姓，我的儿叫罗卜，不叫莲僧。望长官你与我盘查细问，我母子见一面感你的大恩。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "小师父，里面有一个刘氏清提，她子不叫目莲僧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "叫什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "叫什么糖萝菔醋萝菔。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "敢是傅罗卜？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "不错，傅罗卜。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "请上城楼，我母子相见。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "阎君知道，那还了得！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "行个方便吧！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "使不得！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "念",
+          "content": "唵嘛呢叭咪吽……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "哑唷哑唷……不要如此！众鬼卒，将刘氏清提，押上都城。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘清提上，上台子。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄摇板",
+          "content": "一见母亲泪眼认，怎不叫人痛在心。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "长官，将我母亲焰火去了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "众鬼卒，将刘氏清提，焰火去了。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄导板",
+          "content": "刘清提站都城一言难尽，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "罗卜我儿，儿呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄垛板",
+          "content": "叫一声我的儿细听详情："
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄原板",
+          "content": "儿本是阳世人相隔幽冥，今来到阴曹府把娘找寻。苦愁眉叫为娘心痛难忍，观不见儿容貌只听声音。想当初在阳间一家欢幸，儿每日在佛堂苦读经文。娘只说吃长斋何等侥幸，惊动了那铁树神开花见针。娘不该在佛堂咒骂神圣，娘不该用荤油添了佛灯；娘不该将白骨花园攘定，娘不该打僧骂道，骂道打僧，不听菩言，开了五荤，身受这灾星。我的儿呀！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "缓锣鼓。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄原板",
+          "content": "儿的父修正道西天成圣，哪知道为娘我受此苦情。娘只说阴曹府无有报应，有谁知为娘我到今日，蓬头盖脸，项带铁链，口内吞火，眼中点灯，何日里逃生？我的儿呀！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "缓锣鼓。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄原板",
+          "content": "求佛尊将为娘罪过改定，放为娘出都城是瞑目甘心。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓，今当四月初八日，阎君赴龙华大会去了，你可哀告长官，将为娘放出都城，我母子也好相见。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "长官，将我母亲放出都城。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "阎君知道，那还了得！使不得！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "念",
+          "content": "唵嘛呢叭咪吽……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "哑唷哑唷……不要如此！众鬼卒，将刘氏清提，押出都城。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘清提出城。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "三叫头",
+          "content": "罗卜！我儿！儿吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄摇板",
+          "content": "娘只说阴曹府无报应，天网恢恢有神灵。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓，为娘披枷带锁，如何是好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "有佛法。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "快快念来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "是！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄摇板",
+          "content": "对准西方身拜定，快将枷锁离娘身。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "为娘双目不明，如何是好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "有佛法。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "快快用来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "遵命！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄摇板",
+          "content": "对准西方身拜定，取来了甘露水付与娘亲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄摇板",
+          "content": "娘只说母子不能见，谁知相逢地狱门。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓，为娘肚中饥饿，如何是好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "还有佛法。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "快快用来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "是！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄摇板",
+          "content": "对准西方身拜定，取来了干饭付与娘亲。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众鬼同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓，这些冤鬼，超度他们。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "念",
+          "content": "唵嘛呢叭咪吽……"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众鬼同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓，这饭多被饿鬼抢了去了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "还有佛法。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "快快用来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "目莲",
+          "mode": "白",
+          "content": "是！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "目莲",
+          "mode": "二黄摇板",
+          "content": "二次又把身拜定，再取干饭付与娘亲。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "小鬼上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小鬼",
+          "mode": "白",
+          "content": "报：阎君回殿来了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "知道了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "小鬼下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "你母子快快分别了罢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "呵吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘清提",
+          "mode": "二黄摇板",
+          "content": "母子见面才欢欣，霎时就要两离分。母子们只哭得珠泪滚，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘清提",
+          "mode": "白",
+          "content": "儿吓……"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘清提、目莲同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大鬼",
+          "mode": "白",
+          "content": "呵吓且住！这些冤鬼，俱已逃生去了，阎君回来，如何是好？也罢，待我也逃生去罢！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "大鬼下。"
+        }
+      ],
+      "stats": {
+        "line_count": 158,
+        "lyric_ratio": 0.61,
+        "stage_direction_count": 13
+      }
+    }
+  ]
+}

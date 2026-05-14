@@ -1,0 +1,1659 @@
+{
+  "metadata": {
+    "file_id": "01002012_白门楼",
+    "title": "白门楼",
+    "period": "三国",
+    "total_scenes": 7
+  },
+  "characters": [
+    {
+      "name": "吕布",
+      "role_type": "小生",
+      "role_subtype": "雉尾生",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "有勇无谋",
+        "刚愎自用",
+        "好色"
+      ],
+      "identity": "汉末诸侯，温侯"
+    },
+    {
+      "name": "貂蝉",
+      "role_type": "旦",
+      "role_subtype": "青衣",
+      "gender": "女",
+      "age_range": "青年",
+      "personality_keywords": [
+        "聪慧",
+        "果敢",
+        "隐忍"
+      ],
+      "identity": "王允义女"
+    },
+    {
+      "name": "曹操",
+      "role_type": "净",
+      "role_subtype": "架子花脸",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "奸诈多疑",
+        "求贤若渴",
+        "雄才大略"
+      ],
+      "identity": "汉朝丞相"
+    },
+    {
+      "name": "刘备",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "隐忍",
+        "腹黑",
+        "胸有大志"
+      ],
+      "identity": "汉室宗亲，豫州牧"
+    },
+    {
+      "name": "陈宫",
+      "role_type": "老生",
+      "role_subtype": "正生",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "忠直",
+        "刚正",
+        "足智多谋"
+      ],
+      "identity": "吕布谋士"
+    },
+    {
+      "name": "张辽",
+      "role_type": "武生",
+      "role_subtype": "长靠武生",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "忠勇",
+        "刚直",
+        "重义"
+      ],
+      "identity": "吕布部将，后降曹"
+    },
+    {
+      "name": "关羽",
+      "role_type": "老生",
+      "role_subtype": "红生",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "忠义",
+        "勇武",
+        "重义"
+      ],
+      "identity": "刘备义弟"
+    },
+    {
+      "name": "张飞",
+      "role_type": "净",
+      "role_subtype": "架子花脸",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "鲁莽",
+        "忠勇",
+        "直率"
+      ],
+      "identity": "刘备义弟"
+    },
+    {
+      "name": "李典",
+      "role_type": "武生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [],
+      "identity": "曹操部将"
+    },
+    {
+      "name": "乐进",
+      "role_type": "武生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [],
+      "identity": "曹操部将"
+    },
+    {
+      "name": "许褚",
+      "role_type": "净",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [],
+      "identity": "曹操部将"
+    },
+    {
+      "name": "曹洪",
+      "role_type": "武生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [],
+      "identity": "曹操部将"
+    },
+    {
+      "name": "小太监",
+      "role_type": "丑",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "少年",
+      "personality_keywords": [],
+      "identity": "吕布宫中内侍"
+    },
+    {
+      "name": "龙套",
+      "role_type": "末",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "士兵、侍从"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "辕门候令",
+      "characters_on_stage": [
+        "刘备",
+        "关羽",
+        "张飞",
+        "龙套"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四小军、刘备、关羽、张飞同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "念",
+          "content": "桃园义气结金兰，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽、张飞",
+          "mode": "同念",
+          "content": "保定汉室锦家邦。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽、张飞",
+          "mode": "同白",
+          "content": "大哥，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "贤弟，丞相发兵徐州，二位贤弟，同到辕门候令。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽、张飞",
+          "mode": "同白",
+          "content": "大哥请。带马。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众人同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 7,
+        "lyric_ratio": 0.0,
+        "stage_direction_count": 2
+      }
+    },
+    {
+      "scene_id": 2,
+      "title": "曹营发兵",
+      "characters_on_stage": [
+        "李典",
+        "乐进",
+        "许褚",
+        "曹洪",
+        "曹操",
+        "刘备",
+        "关羽",
+        "张飞",
+        "龙套"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "李典、乐进、许褚、曹洪同上，同起霸。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "李典、乐进、许褚、曹洪",
+          "mode": "点绛唇",
+          "content": "杀气英豪，儿郎虎豹，军威号，地动山摇，要把狼烟扫。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "李典",
+          "mode": "白",
+          "content": "李典。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "乐进",
+          "mode": "白",
+          "content": "乐进。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "许褚",
+          "mode": "白",
+          "content": "许褚。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹洪",
+          "mode": "白",
+          "content": "曹洪。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "李典",
+          "mode": "白",
+          "content": "众位将军请了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "乐进、许褚、曹洪",
+          "mode": "同白",
+          "content": "请了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "李典",
+          "mode": "白",
+          "content": "丞相攻取徐州，你我两厢伺候。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "乐进、许褚、曹洪",
+          "mode": "同白",
+          "content": "请。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四红龙套引曹操同上。刘备、关羽、张飞同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "引子",
+          "content": "忆昔扶汉朝，威风把名标。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "同白",
+          "content": "参见丞相。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "众位将军少礼。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "同白",
+          "content": "谢丞相。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "念",
+          "content": "汉室空有主，兵权吾为先。怀志冲霄汉，横行宇宙间。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "老夫曹操。今奉天子明诏，带领人马，扫荡徐州，可恨吕布战又不战，降又不降，使君妙计安在？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "请丞相发令，备当协力攻打徐州。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "好，就命使君带领众将，攻打徐州，捉拿吕布满门，不得有误。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "得令。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘备、关羽、张飞同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "众位将军，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "同白",
+          "content": "在。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "兵发徐州。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "〖牌子〗。众人同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 25,
+        "lyric_ratio": 0.04,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 3,
+      "title": "温侯恋酒",
+      "characters_on_stage": [
+        "吕布",
+        "貂蝉",
+        "小太监",
+        "陈宫"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "小太监上，貂蝉、吕布同上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮二六板",
+          "content": "每日里闲无事逍遥饮酒，到今日称心愿得坐徐州。只恨的曹操贼屡次入寇，他那里兴人马来夺徐州。狗奸贼要擒我怎能得够？某若是抖威风群贼命休。内侍臣看过了琼浆美酒，我二人只欢乐多饮几瓯。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "看酒。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "貂蝉",
+          "mode": "西皮摇板",
+          "content": "老王允定下了连环巧计，我这里用假意谅他不知。但愿得曹丞相大兵齐至，破徐州俱擒去万事全休。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "吕布、貂蝉同吃酒。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "内白",
+          "content": "走吓！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "陈宫上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "陈宫",
+          "mode": "西皮摇板",
+          "content": "曹操领兵夺徐州，迷恋宫闱吕温侯。将身来在宫门口，见了公公说从头。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "烦劳公公，通禀温侯：陈宫有本启奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "原来是公台，请少待，咱家与你启奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "有劳了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "启娘娘：公台有本启奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "温侯酒醉，有本改日再奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "是。公台，温侯酒醉，有本改日再奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "这话是何人讲的？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "娘娘讲的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "不好了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "陈宫",
+          "mode": "西皮摇板",
+          "content": "昔日有个商纣王，宠爱妲姬乱朝纲。温侯学了前朝样，蝉貂好比苏娘娘。大着胆儿宫门闯，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "公台，这是什么地方，你不想着活了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "哎吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "陈宫",
+          "mode": "西皮摇板",
+          "content": "顺者昌来逆者亡。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "陈宫下。"
+        }
+      ],
+      "stats": {
+        "line_count": 22,
+        "lyric_ratio": 0.5,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 4,
+      "title": "吕布出战",
+      "characters_on_stage": [
+        "貂蝉",
+        "吕布",
+        "张辽",
+        "小太监",
+        "李典",
+        "乐进",
+        "许褚",
+        "曹洪",
+        "刘备",
+        "关羽",
+        "张飞",
+        "龙套"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "温侯请酒。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张辽上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "念",
+          "content": "忙将盗马事，报与温侯知。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "来此已是。哪位在？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "原来是张将军，到此何事？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "烦劳公公通禀，张辽有本启奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "温侯酒醉，改日再奏罢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "何人讲的？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小太监",
+          "mode": "白",
+          "content": "娘娘讲的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "闪开了！启温侯：大事不好了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "吓，何事惊慌？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "今日侯成，将温侯赤兔马与画戟盗去了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "再探。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张辽下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "不好了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "扑灯蛾",
+          "content": "闻言怒气发，怒气发，不由人咬碎钢牙。盗去画戟赤兔马，赤手空拳怎战杀。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "好吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "貂蝉",
+          "mode": "扑灯蛾",
+          "content": "温侯不必怒气发，妾身有言听根芽：温侯威名谁不怕，无有戟马也胜他。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "扑灯蛾",
+          "content": "吩咐众将备战马，生擒活捉把贼拿。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "来，吩咐备马。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "吕布下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "温侯吓，事到其时，此去定被曹公所擒，可怪不得你妻子了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "貂蝉下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "马夫上，备马。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "马夫",
+          "mode": "白",
+          "content": "有请温侯上马。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四小军、大将自两边分上。吕布上，李典、乐进、许褚、曹洪同上，会阵。刘备、关羽、张飞同上，开打。众人同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 26,
+        "lyric_ratio": 0.23,
+        "stage_direction_count": 6
+      }
+    },
+    {
+      "scene_id": 5,
+      "title": "下邳城破",
+      "characters_on_stage": [
+        "陈宫",
+        "张辽",
+        "貂蝉",
+        "吕布",
+        "李典",
+        "乐进",
+        "许褚",
+        "曹洪",
+        "刘备",
+        "关羽",
+        "张飞",
+        "龙套"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四龙套同上，陈宫上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "念",
+          "content": "眼观旌旗起，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张辽上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "念",
+          "content": "耳听好消息。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "龙套",
+          "mode": "内白",
+          "content": "那贼人马杀进城来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "将军，那贼人马如潮水一般，如何是好？好，好，张将军抵挡一阵。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "遵命。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "陈宫下。李典、乐进、许褚、曹洪同上，会阵，开打，擒张辽同下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "貂蝉上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "温侯，温侯，呵吓！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "李典、乐进、许褚、曹洪同上，擒貂蝉同下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "陈宫上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "温侯，温侯，呵吓！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "李典、乐进、许褚、曹洪同上，擒陈宫同下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "吕布上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "貂蝉，貂蝉，呀吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮摇板",
+          "content": "擒去陈宫、张文远，抢去我妻女貂蝉。心中有事难交战，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "罢！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮摇板",
+          "content": "舍死忘生战一番。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "李典、乐进、许褚、曹洪、刘备、关羽、张飞同上，擒吕布同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 20,
+        "lyric_ratio": 0.2,
+        "stage_direction_count": 8
+      }
+    },
+    {
+      "scene_id": 6,
+      "title": "曹公斩宫",
+      "characters_on_stage": [
+        "曹操",
+        "刘备",
+        "关羽",
+        "张飞",
+        "李典",
+        "乐进",
+        "许褚",
+        "曹洪",
+        "貂蝉",
+        "陈宫",
+        "吕布",
+        "龙套"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四红龙套同上，曹操上，坐帐。李典、乐进、许褚、曹洪、刘备、关羽、张飞同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "李典、乐进、许褚、曹洪、刘备、关羽、张飞",
+          "mode": "同白",
+          "content": "吕布被擒。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "使君请坐，众将退下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "谢坐。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "李典、乐进、许褚、曹洪、关羽、张飞同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "来，带貂蝉。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "貂蝉上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "貂蝉",
+          "mode": "西皮摇板",
+          "content": "刀枪剑戟擒住我，霎时不绑去绳锁。进得帐来忙跪落，丞相宽恩是为何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "貂蝉为何不抬起头来？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "有罪不敢抬头。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "恕你无罪。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "谢丞相。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "曹操",
+          "mode": "西皮摇板",
+          "content": "貂蝉女好妙计盖世功果，献连环搭救了汉室山河。叫人来送貂蝉养老宫坐，太平时也许她安然快乐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "貂蝉",
+          "mode": "白",
+          "content": "谢丞相。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "貂蝉",
+          "mode": "西皮摇板",
+          "content": "叩罢头来谢恩德，养老宫中去快乐。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "吕布、陈宫同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "貂蝉转来！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮二六板",
+          "content": "见貂蝉不由我心如烈火，骂一声狗淫妇无耻的贱婆：你本是老王允许配与我，为什么暗地里又许董卓？自那日打从在凤仪亭经过，你那里使颜色将我勾活。我为你丁建阳被我刺过，我为你二次里又杀董卓。直指望你那里真心待我，又谁知狗淫妇里应外合。恨不得这一足将你结果！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "貂蝉下。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "陈宫",
+          "mode": "西皮摇板",
+          "content": "有陈宫向前去忙把话说：貂蝉女是假意臣已奏过，反说我老陈宫疑心太多。到如今君臣们带了枷锁，才知道貂蝉女里应外合。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮摇板",
+          "content": "陈公台你不必埋怨于我，大丈夫生和死有何惧却。自追悔恋酒色一时之错，既死在阴人手自听头落。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "吕布、陈宫同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "使君传我将令：老夫收吕布，帐下为将，顺吾者昌，逆吾者亡。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "曹操下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "哎吓且住，方才丞相要收吕布，言到：顺者昌，逆者亡。这便如何是好？二位贤弟快来。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "关羽、张飞同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽、张飞",
+          "mode": "同白",
+          "content": "大哥何事？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "丞相要收吕布为将，言到：顺者昌，逆者亡。若收了吕布，你我弟兄大事难成。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽、张飞",
+          "mode": "同白",
+          "content": "大哥吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "关羽",
+          "mode": "西皮摇板",
+          "content": "大哥不必心内慌，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张飞",
+          "mode": "西皮摇板",
+          "content": "小弟言来听端详："
+        },
+        {
+          "type": "lyric",
+          "speaker": "关羽",
+          "mode": "西皮摇板",
+          "content": "今日要收吕布将，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张飞",
+          "mode": "西皮摇板",
+          "content": "就提董卓、丁建阳。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "着着着！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "关羽、张飞同下。曹操上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "来，带陈宫。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "龙套甲押陈宫同上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "陈宫",
+          "mode": "西皮摇板",
+          "content": "徐州城内失了计，猛虎离山被他欺。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "老夫陈宫，今已被擒，此番进帐，落个骂贼而亡！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "陈宫",
+          "mode": "西皮摇板",
+          "content": "到如今怨不得性命为贵，吕奉先可算得将中之魁。将身儿来至在贼营队内，生和死我不怕任贼所为。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "下面站的可是陈宫？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "然。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "吓公台，别来无恙？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "曹操吓，曹操！俺陈宫若知你心术不正，那日在旅店之中，一刀将你杀死，焉有今日。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "住口！我问你，在中牟县纵放，弃职同行，要相扶老夫，共谋大事，因何不别而行？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "若问前情，你且听了：当初释放于你，因你身居骁骑，颇有机谋，心雄胆壮，谋刺国贼未成，只身逃至中牟。我乃一力相助，指望同兴汉室，岂知你心性太偏，疑心太重。可叹吕氏全家，无端惨死，我忠言相劝，你非但不知追悔，反敢昌言：宁我负人。因此弃你而行。也曾题赠，赠你“奸雄”二字！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "我心不正，难道不如那吕布？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "吕温侯心无谋智，却不似你诡计奸刁，聚结豺狼，强霸诸侯，并吞州郡，久必生乱。看来这汉室山河，难出你奸雄之手。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "你倒心怀大志，腹隐奇谋，怎么也有今日？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "只恨那吕布，他不听吾言，心无定见，酒色伤身；若能依我而行，但看在濮阳城些小之计，烧得你焦头烂额。若不中你哭丧之计，今日还坐守濮阳，怎能遭你毒手！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "我且问你，今日之事如何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "在徐州我一箭未曾将你射死，今被你擒，一死而已。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "是吓，倒是你留名于后，只是你还有老母、妻子。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "哎，我闻“治天下者不害人之亲”，老母妻子，凭你处置。俺拼一死，并无挂念。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "公台心性痴迷，你是归顺老夫，以顺天心，你意下如何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "吓吓呸！俺心已定，若改前言，除非日从西起。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "公台之意，老夫相从。来，老母、妻子，送回许都，不可怠慢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "同白",
+          "content": "是。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "来，将陈宫推去斩了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈宫",
+          "mode": "白",
+          "content": "多谢明公，生死无悔！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众人推陈宫同下。龙套甲拿头上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "龙套甲",
+          "mode": "白",
+          "content": "斩首已毕。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "将陈宫尸首，不可损坏，带回原郡，搭下去。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "龙套甲下。"
+        }
+      ],
+      "stats": {
+        "line_count": 65,
+        "lyric_ratio": 0.34,
+        "stage_direction_count": 10
+      }
+    },
+    {
+      "scene_id": 7,
+      "title": "斩布收辽",
+      "characters_on_stage": [
+        "曹操",
+        "刘备",
+        "关羽",
+        "张飞",
+        "吕布",
+        "张辽",
+        "龙套"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "带吕布！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "内西皮导板",
+          "content": "今日里在小沛大败一仗，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四龙套斜门同上。吕布上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮慢板",
+          "content": "似猛虎离山岗落了平阳。自幼儿出母胎情性傲强，灭却了董卓贼各霸一方。到如今陷小沛身入罗网，要活命除非是转世还阳。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮快板",
+          "content": "俺好比夏后羿月窟遭殃，某好比公叔段命丧沙场。俺好比汉高祖兵败咸阳，某好比三齐王命丧未央。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "咳！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮快板",
+          "content": "没奈何进帐去哀求丞相，屈膝跪低下头吕布归降。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "下跪何人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "被擒吕布。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "抬起头来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "有罪不敢抬头。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "恕你无罪。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "谢丞相。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "你虎牢关的威风何在？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "天下英雄怎敌丞相？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "你待怎讲？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "怎比丞相？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "三笑",
+          "content": "哈哈，哈哈，哈哈哈！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "刘使君！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "丞相。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "老夫有意将吕布收留帐下，你看如何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "杀也在丞相，放也在丞相，可记得丁董之故事乎？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "本当将你收留，恐学那丁、董之故事。来，斩！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "刘使君，你今为上坐客，布为阶下囚，为何在一旁多言？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "丞相传令，谁敢违抗？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "可记得辕门射戟之时乎？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "天长日久，备倒失记了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "你且听听！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮快板",
+          "content": "大耳贼——"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张辽上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮快板",
+          "content": "忘却了辕门射戟，有袁术差纪灵将你来逼。那时节全亏我射戟神力，一杆戟唬退了猛将姓纪。到今日忘前情反做仇敌，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "罢！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮快板",
+          "content": "某死后定将你生魂来逼。某只得二次里屈膝跪地，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "温侯，难道你还怕死么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "吕布",
+          "mode": "白",
+          "content": "将军吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "吕布",
+          "mode": "西皮摇板",
+          "content": "某死后汉室中英雄还有谁？"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四龙套押吕布同下，三鼓。龙套甲拿头上付与张辽。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张辽",
+          "mode": "西皮摇板",
+          "content": "烈烈英雄辈，钢刀把命追。宠爱貂蝉女，昏迷在宫闱。今日刀下死，此时埋怨谁？人头搭在宝帐内，开言大骂狗奸贼！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "下站何人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "瞎了儿的狗眼，连你张老爷都不认识了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "原来是火烧濮阳的火头军。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "可惜吓，可惜！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "可惜什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "可惜濮阳的火小；若是火大，将你这奸贼烧死，免却我君臣的后难。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "今日被擒，还是这样性傲。来，斩了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "三笑",
+          "content": "哈哈，哈哈，哈哈哈！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "抓回来！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "要斩就斩，何必多言？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "你为何在辕门发笑？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "俺乃天下豪杰，死在你这奸贼之手，岂不可笑？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "张将军，你若归顺老夫帐下，必然重用。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "岂与你这逆贼同党。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽",
+          "mode": "白",
+          "content": "张将军你若不降，你家中还有妻室老小，依靠何人？你要再思再想。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "要俺归降，依我三件大事。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "哪三件？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张辽",
+          "mode": "白",
+          "content": "头一件将温侯死首，不可损坏；第二件将他尸首，要金井玉葬；第三件，要你这奸贼亲自下位松绑。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "关羽",
+          "mode": "白",
+          "content": "某家代劳。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "曹操",
+          "mode": "白",
+          "content": "后帐摆宴，与众位将军同饮。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众人同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 59,
+        "lyric_ratio": 0.39,
+        "stage_direction_count": 4
+      }
+    }
+  ]
+}

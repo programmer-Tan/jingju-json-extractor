@@ -1,0 +1,1397 @@
+{
+  "metadata": {
+    "file_id": "01001008_取成都",
+    "title": "取成都",
+    "period": "三国",
+    "total_scenes": 5
+  },
+  "characters": [
+    {
+      "name": "刘璋",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "优柔寡断",
+        "爱民",
+        "懦弱"
+      ],
+      "identity": "西川蜀主"
+    },
+    {
+      "name": "刘玉",
+      "role_type": "小生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "忠勇",
+        "刚烈",
+        "耿直"
+      ],
+      "identity": "刘璋之子"
+    },
+    {
+      "name": "王累",
+      "role_type": "丑",
+      "role_subtype": "老丑",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "忠直",
+        "刚正",
+        "死节"
+      ],
+      "identity": "刘璋属臣"
+    },
+    {
+      "name": "刘备",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "伪善",
+        "隐忍",
+        "雄才"
+      ],
+      "identity": "蜀汉主公"
+    },
+    {
+      "name": "诸葛亮",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "足智多谋",
+        "善辩",
+        "果断"
+      ],
+      "identity": "蜀汉军师"
+    },
+    {
+      "name": "马超",
+      "role_type": "武生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "勇武",
+        "暴躁",
+        "果决"
+      ],
+      "identity": "刘备部将"
+    },
+    {
+      "name": "黄忠",
+      "role_type": "老生",
+      "role_subtype": "武老生",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "忠勇",
+        "刚猛"
+      ],
+      "identity": "刘备部将"
+    },
+    {
+      "name": "严颜",
+      "role_type": "老生",
+      "role_subtype": "武老生",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "勇武",
+        "识时务"
+      ],
+      "identity": "原刘璋部将后降刘备"
+    },
+    {
+      "name": "魏延",
+      "role_type": "净",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "勇武",
+        "冲动"
+      ],
+      "identity": "刘备部将"
+    },
+    {
+      "name": "赵云",
+      "role_type": "武生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "忠勇",
+        "沉稳"
+      ],
+      "identity": "刘备部将"
+    },
+    {
+      "name": "探子",
+      "role_type": "丑",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "刘璋下属探报"
+    },
+    {
+      "name": "四太监",
+      "role_type": "末",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "宫内侍从"
+    },
+    {
+      "name": "四白龙套",
+      "role_type": "末",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "马超部属士兵"
+    },
+    {
+      "name": "四红龙套",
+      "role_type": "末",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "刘备部属士兵"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "刘璋升殿",
+      "characters_on_stage": [
+        "刘璋",
+        "四太监",
+        "探子"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四太监同上，刘璋上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "引子",
+          "content": "驾坐西川，恨张松，归顺桃园"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "念",
+          "content": "君为民爱，民为国愁。忧国忧民，何日罢休？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "孤，姓刘名璋，字季玉。坐镇西川一带等处。可恨同宗刘备，带领人马，夺取西川。孤在张鲁王驾前，聘请一将，名唤马超，此人有万夫不当之勇。孤命他镇守葭萌关，前者与桃园弟兄交战，也曾命探子前去哨探，未见回报。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "探子上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "探子",
+          "mode": "白",
+          "content": "启禀大王：马超降顺刘备，带领人马，夺取成都。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "再探。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "探子下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "不好了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "忽听探马报一声，胆大的马超降他人。内臣摆驾敌楼进"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "内白",
+          "content": "儿臣有本启奏。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "哦，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "王儿上殿问分明"
+        }
+      ],
+      "stats": {
+        "line_count": 28,
+        "lyric_ratio": 0.29,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 2,
+      "title": "君臣议事",
+      "characters_on_stage": [
+        "刘璋",
+        "刘玉",
+        "王累"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘玉上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "千言万语父不信，一心要做仁义人。刘玉正在为难处，见了父王说分明。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "白",
+          "content": "儿臣见驾，父王千岁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "王儿平身。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "白",
+          "content": "千千岁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "赐坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "白",
+          "content": "谢坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "王儿上殿有何本奏？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "白",
+          "content": "启奏父王，马超带领人马，夺取成都。父王为何坐视不理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "非是孤坐视不理，我想成都，兵微将寡，将这西川让与刘备就是。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "白",
+          "content": "父王吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮慢板",
+          "content": "父王做事欠思忖，细听儿臣说分明：曹操杀他全家命，不报冤仇岂甘心？儿臣敌楼把贼问，一战交锋把功成。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮慢板",
+          "content": "王儿奏本欠思论，哪有能将去挡贼兵？孤王心中只把张松恨，地理图大不该献与他人。老严颜在巴州早已归顺，张任不降命归阴。刘备、孔明把城进，大胆马超降他人。孤欲开城将贼问，满朝文武共起降心。左思右想心不定，孤倒作了进退两难人。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮快板",
+          "content": "父王说话不必惊，细听儿臣奏分明：刘备纵有千员将，不让西川又怎生？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮快板",
+          "content": "刘备仁义顺天命，诸葛贤能似陈平。孤把好言对他论，难道不念同宗人。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "君臣踌躇无计定"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "内白",
+          "content": "千岁等着，王累有本启奏。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "朝房又来一老臣。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "王累上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "西川人马乱纷纷，忙上银安奏主君。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "王累见驾，愿大王千岁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "卿家平身。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "千千岁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "卿家上殿，有何本奏？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "启奏大王，马超降了刘备，带领人马，前来夺取成都，大王何以坐视不理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "孤与王儿，正为此事忧闷，何为坐视不理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘玉",
+          "mode": "白",
+          "content": "儿臣敌楼答话。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "何人保驾？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "老臣保驾。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "卿家保驾，孤不忧也。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "王儿敌楼把贼问，大事全仗王爱卿。四门之人安排定，休教那马超进都城。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘璋下"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "银安殿领了父王命"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "老臣保驾随后跟。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "卿家带路敌楼进"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮快板",
+          "content": "看看来的哪路兵？"
+        }
+      ],
+      "stats": {
+        "line_count": 45,
+        "lyric_ratio": 0.62,
+        "stage_direction_count": 3
+      }
+    },
+    {
+      "scene_id": 3,
+      "title": "城楼对垒",
+      "characters_on_stage": [
+        "刘玉",
+        "王累",
+        "马超",
+        "四白龙套"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘玉、王累同上城。四白龙套同上，马超上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "马超",
+          "mode": "西皮摇板",
+          "content": "某奉军师将领遣，打马来在都城边。快叫刘璋把城献，若少迟延杀进关。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "耳旁听得人马喊"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "只见马超立阵前。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "马超",
+          "mode": "西皮摇板",
+          "content": "城上不见刘璋面，你是何人把话言？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "小王刘玉掌宫殿"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "老爷王累保驾官。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "马超",
+          "mode": "西皮摇板",
+          "content": "快叫刘璋把城献，倘若迟延后悔难。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘玉",
+          "mode": "西皮摇板",
+          "content": "你降刘备该问斩"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "卖国求荣狗肺男！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "马超",
+          "mode": "西皮摇板",
+          "content": "小子说话太鲁莽，气的老爷怒冲冠！用手搭上雕翎箭，管叫小子丧黄泉！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "马超射死刘玉。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "一见千岁丧了命，滚木擂石往下沉。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "马超、四白龙套同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "众将小心把守城池，待我报与千岁知道。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "同白",
+          "content": "呵。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "王累下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "马超、四白龙套同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "马超",
+          "mode": "白",
+          "content": "且住，看那王累打下滚木擂石，不是快马如飞，险遭不测。临行之时，军师言道，刘璋最爱百姓。不免拆毁民房，放火焚烧。呔，众将官，四下放起火来！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "四白龙套",
+          "mode": "同白",
+          "content": "喝。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "马超、四白龙套同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 52,
+        "lyric_ratio": 0.68,
+        "stage_direction_count": 7
+      }
+    },
+    {
+      "scene_id": 4,
+      "title": "刘璋让城",
+      "characters_on_stage": [
+        "刘璋",
+        "王累",
+        "马超",
+        "四白龙套"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "内白",
+          "content": "摆驾。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘璋上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "适才王累进宫报，王儿敌楼赴阴曹。耳边厢又听得放火炮，想必是马超贼放火将孤的民房烧。内侍臣摆驾上城道"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "哭",
+          "content": "王儿吓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "那边厢又来了贼马超。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "马超、四白龙套同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "马超",
+          "mode": "白",
+          "content": "蜀主请了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "呀呸！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "快西皮摇板",
+          "content": "见马超不由孤心中刀搅，叫一声马孟起细听根苗：孤王的待你是哪些不好，你那里降刘备所为哪条？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "马超",
+          "mode": "快西皮摇板",
+          "content": "我这里降刘备也是正道，我劝你让成都免动枪刀。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "汉刘备他不过封你官职不小，孤与你分疆土手足相交。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "马超",
+          "mode": "西皮摇板",
+          "content": "叫三军拆民房齐放火炮，杀进城一个个性命难逃！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "一言恼怒了贼马超，放火就把民房烧。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "哭板",
+          "content": "只听得众子民苦苦哀告"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "哭",
+          "content": "子民吓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "我不让成都命难逃。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "马将军，你将人马暂退一箭之地，孤将成都让与你君臣就是了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "马超",
+          "mode": "白",
+          "content": "须要言而有信。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "岂肯失信于你？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "马超",
+          "mode": "白",
+          "content": "众将官，将人马暂退一箭之地。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "四白龙套",
+          "mode": "同白",
+          "content": "哦。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "好贼子吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "慢西皮摇板",
+          "content": "这也是成都的兵微将少，眼见得锦绣春山付与水漂。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "众将官开城。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "尊一声千岁慢开城"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "主公此城开不得！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "怎样开不得？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "王累",
+          "mode": "白",
+          "content": "开城不要紧，我主江山有失。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "卿家你来看，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "后场放火。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "四面俱是火起，为孤一人，岂可连累好百姓？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "王累",
+          "mode": "西皮摇板",
+          "content": "懦弱之人怎为君？千言万语劝不醒，不如碰死在都城。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "王累撞死。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "哎吓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "一见王卿丧了命，去了擎天柱一根。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "哭板",
+          "content": "但愿你魂灵归仙境"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "哭",
+          "content": "王卿吓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "凌烟阁上早标名。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "众将官开城。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘璋下。"
+        }
+      ],
+      "stats": {
+        "line_count": 48,
+        "lyric_ratio": 0.54,
+        "stage_direction_count": 5
+      }
+    },
+    {
+      "scene_id": 5,
+      "title": "刘备受印",
+      "characters_on_stage": [
+        "马超",
+        "四白龙套",
+        "黄忠",
+        "严颜",
+        "魏延",
+        "赵云",
+        "刘璋",
+        "四红龙套",
+        "诸葛亮",
+        "刘备"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "〖急急风〗。马超领四白龙套同上，同进城。黄忠、严颜、魏延、赵云同上。刘璋上，坐城外。黄忠、严颜、魏延、赵云同进城。四红龙套同上，车夫推诸葛亮同上，进城。刘备上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "吓，宗兄！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "吓，宗兄来了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "备来了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备、刘璋",
+          "mode": "同笑",
+          "content": "哈哈哈……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "宗兄到此，请来进城。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "不敢，宗兄请。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "你我挽手而行。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘备、刘璋同进城，同下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四红龙套同上。黄忠、严颜、魏延、赵云同上。诸葛亮上。刘备、刘璋同上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "吓，宗兄，此位是谁？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "此乃是卧龙先生。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "吓，这就是卧龙先生。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "吓，先生见过蜀主。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "诸葛亮",
+          "mode": "白",
+          "content": "遵命。参见蜀主。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "罢了，一旁坐下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "诸葛亮",
+          "mode": "白",
+          "content": "谢坐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "吓，宗兄，前番孤修书，将成都让与宗兄执掌，宗兄言道：不忍夺同宗之基业。今日带兵前来，夺取成都，是何理也？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "这个……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "诸葛亮",
+          "mode": "白",
+          "content": "我主乃是不得已而为之。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "好一个不得已而为之！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "宗兄吓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘备",
+          "mode": "西皮原板",
+          "content": "刘备出身甚凋零，可恨孙、曹二奸臣。霸占荆州居九郡，因此上他两家连次动了刀兵。打听得宗兄多安静，暂借成都且安身。只待刘备承天运，再请那宗兄进都城。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮快板",
+          "content": "你我本是同宗人"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮二六板",
+          "content": "你今来时孤心惊。有什么大事早议论，何必带兵进都城？实指望两下学秦晋，谁知道反成吴越动刀兵。孤今不让成都郡，难道说还要孤的老命不成？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "诸葛亮",
+          "mode": "快西皮摇板",
+          "content": "蜀主不必怒气生，山人言来听分明：主公暂把心拿定，提兵调将由山人。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "快西皮摇板",
+          "content": "这几句言语实难听，都是诸葛定计行。向前与他把话论，说上几句待怎生？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "宗兄，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮快板",
+          "content": "此处好比鸿门宴，缺少樊哙保驾臣。不是念在同宗姓，岂容你带兵进都城。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "魏延",
+          "mode": "西皮摇板",
+          "content": "听他言来怒气生"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵云",
+          "mode": "西皮摇板",
+          "content": "恼了常山赵将军。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "黄忠",
+          "mode": "西皮摇板",
+          "content": "你今不把成都献"
+        },
+        {
+          "type": "lyric",
+          "speaker": "严颜",
+          "mode": "西皮摇板",
+          "content": "若稍迟延一命倾。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "见几员虎将怒气生，又只见严颜老将军。孤命你镇守巴州郡，你为何背地里降顺他人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "严颜",
+          "mode": "白",
+          "content": "蜀主，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "严颜",
+          "mode": "西皮摇板",
+          "content": "张飞夜过巴州郡，无路失机被他擒。没奈何只得来归顺，休怪严颜不忠臣。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "呀呀呸！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "实指望年迈苍苍忠心耿，却原来卖国求荣狗肺心！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "同白",
+          "content": "让印！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "蝼蚁尚且贪性命，不让成都我命难存。没奈何取出了西川印"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "哭",
+          "content": "先王吓，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "宗兄，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "从今后你执掌锦绣春。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘备欲接印。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "备不恭了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "还要拜过。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "诸葛亮",
+          "mode": "白",
+          "content": "还要拜过。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "哦，还要拜过。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "〖牌子〗。刘备拜印。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "先生，自古天无二日，民无二主。命宗兄何处安身？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "诸葛亮",
+          "mode": "白",
+          "content": "命蜀主去荆州二千岁那里，拨一两郡镇守，也就是了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "宗兄，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "宗兄。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "孤有意修书一封，请宗兄到孤二弟那里，拨一两郡镇守，不知宗兄意下如何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "事到如今，但凭你君臣所为。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "先生传令。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "诸葛亮",
+          "mode": "白",
+          "content": "四将听令：大排队伍送蜀主出城，一路之上，须要小心。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "黄忠、严颜、魏延、赵云",
+          "mode": "同白",
+          "content": "得令。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "黄忠、严颜、魏延、赵云同下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "宗兄，众将保驾出城，备不能远送了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "哦，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮慢板",
+          "content": "听说是一声要饯行，好似狼牙箭穿心。舍不得成都地花花美景，舍不得成都地老少子民。含悲忍泪换衣衾"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘璋换衣。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮慢板",
+          "content": "辞别了宗兄就要登程。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "宗兄，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮二六板",
+          "content": "但愿你在此多安稳，但愿你在此享太平；但愿你各国把贡进，但愿你天降福禄雅赛尧君。西川的文武你要刀刀斩尽，尽都是贪生怕死臣。成都俱是好百姓，成都皆是好子民。孤失成都无怨恨，望宗兄格外开恩，照看我的好子民。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘备",
+          "mode": "西皮快板",
+          "content": "说什么在此多安稳，说什么在此享太平。孙、曹二贼俱扫尽，仍接宗兄回都城。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "诸葛亮",
+          "mode": "西皮摇板",
+          "content": "蜀君不必泪淋淋，顺水推舟让宗兄。但将孙、曹俱扫尽，仍接蜀主进都城。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "事到如今假殷勤，花言巧语买人心。辞别了宗兄跨金镫"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "哭",
+          "content": "呜呜呜……"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘备",
+          "mode": "西皮摇板",
+          "content": "汉刘备一旁假泪淋。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘璋",
+          "mode": "白",
+          "content": "宗兄，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "临行我不把别的来愿"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "刘备",
+          "mode": "白",
+          "content": "愿者何来？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘璋",
+          "mode": "西皮摇板",
+          "content": "但愿你后辈孙儿，照我刘璋一样行。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "刘璋下。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "刘备",
+          "mode": "西皮摇板",
+          "content": "宗兄上马泪纷纷，刘备倒做了无义人。众将后帐摆筵宴，款待新降众将军。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众人同下。"
+        }
+      ],
+      "stats": {
+        "line_count": 96,
+        "lyric_ratio": 0.61,
+        "stage_direction_count": 10
+      }
+    }
+  ]
+}

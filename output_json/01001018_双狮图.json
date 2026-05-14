@@ -1,0 +1,982 @@
+{
+  "metadata": {
+    "file_id": "01001018_双狮图",
+    "title": "双狮图",
+    "period": "唐朝",
+    "total_scenes": 4
+  },
+  "characters": [
+    {
+      "name": "徐策",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "忠义",
+        "稳重",
+        "慈爱"
+      ],
+      "identity": "唐朝丞相，薛蛟养父"
+    },
+    {
+      "name": "薛蛟",
+      "role_type": "小生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "勇武",
+        "孝顺",
+        "重义"
+      ],
+      "identity": "薛猛之子，薛家后裔"
+    },
+    {
+      "name": "书童",
+      "role_type": "丑",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "少年",
+      "personality_keywords": [
+        "诙谐",
+        "机灵",
+        "胆小"
+      ],
+      "identity": "相府书童"
+    },
+    {
+      "name": "家院",
+      "role_type": "末",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "忠谨"
+      ],
+      "identity": "相府仆人"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "府前玩狮",
+      "characters_on_stage": [
+        "书童",
+        "薛蛟"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "书童上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "念",
+          "content": "书童书童，气概威风。人人怕我，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "笑。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "念",
+          "content": "哈哈！我还怕相公。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "咱家相府书童便是，今日相爷不在府中，不免请相公出来，同到府前玩耍玩耍，岂不是好。有请相公。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟上。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "忽听书童来相请，快步如梭到前厅。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "书童，请我出堂何事？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "相公。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "唔。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "今日相爷不在府中，我们到府门外玩耍玩耍可好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "如此带路。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "豪杰开言笑开怀，不觉来到府门外。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "相公。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "做什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "你看这一对玉石狮子，哪一个举得起它，就是个状元。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "哪个先举？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "若论年纪，就该书童先举。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "就让你先举。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "慢些，待我把这些余气吐完了，洒洒架子。哎呀，这狮子好像生了根一般，你来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "你且让开。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "下边听着，府门外有玉狮一对，有人高高举起，低低放下，万官能做，万马能骑。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "来也。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "向前来举起石狮子，双手轮舞显奇能。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "内开道声。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "快放下。相爷回府，完了完了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "吓，两个狮子，放在一堆了真真淘气。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "书童下。"
+        }
+      ],
+      "stats": {
+        "line_count": 27,
+        "lyric_ratio": 0.22,
+        "stage_direction_count": 5
+      }
+    },
+    {
+      "scene_id": 2,
+      "title": "回府查狮",
+      "characters_on_stage": [
+        "徐策",
+        "家院",
+        "书童",
+        "薛蛟"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院引徐策同上。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "笑。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "念",
+          "content": "朝罢归相府，名高镇帝邦。又只见玉狮子，搬在一旁。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "吓。府门外狮子为何蹲在一处？这就奇了。来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "有。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "传书童。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "相爷传书童。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "书童上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "来了。相爷在上，书童叩头。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "我且问你，府门外有何人到过？相公可曾出府？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "没有人到此处，相公也没有。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "府门外石狮子，为何搬在一处？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "这，这个……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "讲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "不瞒你老人家，这是小人搬在一处的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "噢，是你。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "不敢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "依然分为两处。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "这事极容易。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "书童分。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "启相爷：今日力气用尽了，明日分开罢。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "胡说，请相公出来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "是。有请相公。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "书童，做什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "相爷唤你。他若问你可曾出府，你只说没有。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "是。爹爹在上，孩儿拜揖。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "罢了，儿吓，为父的上朝，你可曾到府外玩耍么？"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "书童做手势。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "唔，你在此做什么。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "小人一时发了鸡爪疯。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "唔，还不退下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "书童",
+          "mode": "白",
+          "content": "是。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "书童下。"
+        }
+      ],
+      "stats": {
+        "line_count": 31,
+        "lyric_ratio": 0,
+        "stage_direction_count": 6
+      }
+    },
+    {
+      "scene_id": 3,
+      "title": "观画明冤",
+      "characters_on_stage": [
+        "徐策",
+        "薛蛟"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，府门外石狮子为何搬在一处，是何人搬的？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "启禀爹爹：孩儿与书童，在府门外玩耍，见爹爹未曾回府，是孩儿搬在一处。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "为父的不信，你可依然分开。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "孩儿借道。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "爹爹在上传下令，豪杰一时胆气生。用力举起石狮子，放下两边见分明。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "笑。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "徐策",
+          "mode": "二黄散板",
+          "content": "这才是父是英雄儿好汉，强将手下无弱兵。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，随父到祖先堂上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "是。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "徐策、薛蛟同走圆场。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，拜过祖先。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "是。爹爹，祖先堂上，为何挂这幅图画，是何道理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，这不是我家祖先，乃是薛家的祖先。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "薛家的祖先，为何挂在我家堂上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "只因他全家被奸党所害，做了刀头之鬼，故此为父不忍，悬挂家中。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "爹爹，那上面白袍将军，他是何人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "他乃唐朝有功之臣，名唤薛仁贵，跨海征东，有十大功劳，圣上封他为平辽王之职。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "爹爹，那黑汉是谁？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "你再也不要提起他来。他乃薛丁山之子，名唤薛刚，只因圣上大放花灯，他酒醉出府，闯下泼天大祸，打死太子，惊崩圣驾，奸臣张天佐，与他世代结仇，一本默奏上殿，可怜他满门诛戮。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "哎，可惨吓可惨。爹爹下面有一小小孩童，他是何人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "他乃薛猛之子，名叫薛蛟。周岁未满，也在法场受刑。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "这等说，岂不是连根都除了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "此子还未曾死。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "为怎么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "朝中有一契友，心中不忍，他将自己亲生儿子去到法场换了出来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "爹爹，此子有多大年纪了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "此子么，也有儿般长，儿般大。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "这等说，此子无志。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "怎见得无志？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "有这大年纪，怎么不去报仇？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "咳，唗！你自己海深冤仇，不能报得，反说别人么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "我家有甚冤仇？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "为父的吃了几杯闷酒，说话之间，有些前言不对后语，改日说罢。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟跪，哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "哎呀，爹爹吓，我家有海深冤仇，望爹爹与孩儿说明。如若不然，孩儿就死尘埃。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "我儿吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "徐策",
+          "mode": "二黄原板",
+          "content": "孩儿不必泪双流，细听为父说从头：那白袍将军非是别一个，是你高祖名仁贵，跨海征东把兵投。圣上见他功劳大，并肩一字封王侯。这一位名唤薛丁山，乃是你二世宗祖亲。征西有功于朝廷，圣上亲封西辽王。只因你三叔闯下祸，张天佐与薛家世代结冤仇。奸贼上殿奏一本。可怜他满门受非刑。你父阳和为总督，也在法场丧残生。我舍自己亲生子，换出我儿后代根。蛟儿非是徐门后，乃是薛家后代根。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "听说不是徐门后，唬得我魂不在身。不报冤仇誓不休！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "哈哈哈，儿吓，你要报仇，倒也不难。你有一婶娘，现在卧龙山，招兵买马，积草囤粮，你且在后堂饱餐，待为父修书一封，与你前去，发兵报仇便了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "孩儿知道。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "家院磨墨伺候。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "徐策",
+          "mode": "二黄原板",
+          "content": "墨浓笔饱诉衷肠，止不住双泪涌胸膛。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "徐策写。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "徐策",
+          "mode": "二黄原板",
+          "content": "拜上多拜上，拜上卧龙纪鸾英：来人非是别一个，薛猛之子名薛蛟。一封书信写完了。"
+        }
+      ],
+      "stats": {
+        "line_count": 72,
+        "lyric_ratio": 0.35,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 4,
+      "title": "遣蛟搬兵",
+      "characters_on_stage": [
+        "徐策",
+        "薛蛟"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "徐策",
+          "mode": "二黄原板",
+          "content": "一路行去要当心。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "向前来拜别我的父。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "哎，爹爹吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "一心打马往前行。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，回来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "爹爹何事？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "你今前去卧龙山婶娘那里，搬兵报仇，报仇之后，回来我若还在世，亲眼看见，也不枉为父一片热心。我若不在，你可手拿几张纸钱，走到为父坟前，大哭一场，多拜几拜，儿吓，难道为父当真受了你的不成，也等那旁人叹息几句。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "徐策哭。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "吾儿吓！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "哎呀，爹爹这等说，孩儿不去了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "你怎的不去？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "待爹爹百年以后再去。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "徐策笑。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，为父的还不老，你只管前去。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "孩儿不去。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "唔，你再说不去，我就打。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "打死孩儿也不去。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "好没来由。吓，若是我的亲生金斗孩儿，叫他往东，他就在东，叫他往西，他就在西。吓，这等看起来，好不气死我也。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "爹爹不必如此，孩儿愿去。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "你是怎讲？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "孩儿愿去。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "哈哈哈，好吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "拜别爹爹上了马。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "薛蛟",
+          "mode": "白",
+          "content": "哎呀，爹吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "去到卧龙把兵搬。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "徐蛟儿吓。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "薛蛟",
+          "mode": "二黄原板",
+          "content": "小豪杰打马上阳关，要把冤仇一旦伸！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "薛蛟下。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "徐策",
+          "mode": "白",
+          "content": "儿吓，你真去了！哎，我的儿吓！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "徐策哭。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "徐策",
+          "mode": "二黄原板",
+          "content": "一见蛟儿去登程，好似钢刀刺我心。将身便把内堂进，见了夫人说分明。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "徐策下。"
+        }
+      ],
+      "stats": {
+        "line_count": 45,
+        "lyric_ratio": 0.33,
+        "stage_direction_count": 6
+      }
+    }
+  ]
+}

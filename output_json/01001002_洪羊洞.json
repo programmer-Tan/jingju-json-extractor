@@ -1,0 +1,1748 @@
+{
+  "metadata": {
+    "file_id": "01001002_洪羊洞",
+    "title": "洪羊洞",
+    "period": "北宋",
+    "total_scenes": 10
+  },
+  "characters": [
+    {
+      "name": "杨延昭",
+      "role_type": "老生",
+      "role_subtype": "安工老生",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "忠勇",
+        "重义",
+        "稳重"
+      ],
+      "identity": "三关元帅，杨六郎"
+    },
+    {
+      "name": "孟良",
+      "role_type": "净",
+      "role_subtype": "架子花脸",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "勇武",
+        "粗犷",
+        "重情"
+      ],
+      "identity": "杨家部将"
+    },
+    {
+      "name": "焦赞",
+      "role_type": "净",
+      "role_subtype": "架子花脸",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "急躁",
+        "耿直",
+        "好胜"
+      ],
+      "identity": "杨家部将"
+    },
+    {
+      "name": "程宣",
+      "role_type": "丑",
+      "role_subtype": "小丑",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "机灵",
+        "思乡",
+        "朴实"
+      ],
+      "identity": "洪羊洞更夫，原宋兵"
+    },
+    {
+      "name": "赵德芳",
+      "role_type": "老生",
+      "role_subtype": "王帽老生",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "仁厚",
+        "贤明",
+        "尊贵"
+      ],
+      "identity": "北宋八贤王"
+    },
+    {
+      "name": "杨继业",
+      "role_type": "老生",
+      "role_subtype": "老外",
+      "gender": "男",
+      "age_range": "老年",
+      "personality_keywords": [
+        "忠烈",
+        "刚毅"
+      ],
+      "identity": "杨令公，北宋名将（鬼魂）"
+    },
+    {
+      "name": "杨宗保",
+      "role_type": "小生",
+      "role_subtype": "官生",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "忠勇",
+        "孝顺",
+        "懂事"
+      ],
+      "identity": "杨延昭之子，杨家将领"
+    },
+    {
+      "name": "佘太君",
+      "role_type": "旦",
+      "role_subtype": "老旦",
+      "gender": "女",
+      "age_range": "老年",
+      "personality_keywords": [
+        "刚毅",
+        "慈祥",
+        "明义"
+      ],
+      "identity": "杨继业之妻，杨家太君"
+    },
+    {
+      "name": "柴夫人",
+      "role_type": "旦",
+      "role_subtype": "正旦",
+      "gender": "女",
+      "age_range": "中年",
+      "personality_keywords": [
+        "温婉",
+        "贤淑",
+        "孝顺"
+      ],
+      "identity": "杨延昭之妻，柴郡主"
+    },
+    {
+      "name": "家院",
+      "role_type": "末",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "勤恳",
+        "本分"
+      ],
+      "identity": "杨府家院"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "托兆前奏",
+      "characters_on_stage": [
+        "杨继业",
+        "二鬼卒"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨继业上，二鬼卒同上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨继业",
+          "mode": "念",
+          "content": "在生为大将，死后作忠魂"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨继业",
+          "mode": "白",
+          "content": "吾乃杨继业鬼魂是也。只因六郎前番命人盗取尸骸，乃是假的；真尸骨现在洪羊洞，第三层石匣内。我不免去到宋营，托兆与六郎便了"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨继业",
+          "mode": "二黄原板",
+          "content": "我杨家保宋主忠心秉正，到如今尸骸骨不曾回程。六郎儿他命人搬尸回郡，这都是萧天佐以假为真。叫鬼卒——"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "二鬼卒",
+          "mode": "白",
+          "content": "允"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨继业",
+          "mode": "二黄原板",
+          "content": "驾阴风宋营来进，见了那六郎细说分明"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨继业、二鬼卒同下"
+        }
+      ],
+      "stats": {
+        "line_count": 7,
+        "lyric_ratio": 0.57,
+        "stage_direction_count": 2
+      }
+    },
+    {
+      "scene_id": 2,
+      "title": "杨继业托梦",
+      "characters_on_stage": [
+        "杨延昭",
+        "家院",
+        "杨继业",
+        "二鬼卒"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "二更鼓。家院提灯上，杨延昭上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄原板",
+          "content": "为国家哪何曾半日闲空，我也曾征过了塞北西东。官封我节度使皇王恩重，霎时间身不爽瞌睡朦胧"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院下。杨继业、二鬼卒同上。三更鼓"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨继业",
+          "mode": "二黄原板",
+          "content": "听谯楼打罢了三更时分，进宋营见六郎细说分明。叫鬼卒急忙的大营来进，又只见我的儿瞌睡沉沉。叫鬼卒将他的阴魂推醒"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭惊醒"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "猛抬头又只见去世爹尊。曾记得两狼山何等光景，哪有个人死后又能复生。父子们重相逢犹如破镜"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭睡。四更鼓"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨继业",
+          "mode": "二黄摇板",
+          "content": "我的儿休贪睡细听分明："
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨继业",
+          "mode": "二黄原板",
+          "content": "儿前番盗父的尸骸回郡，这都是萧天佐弄假成真。父尸骸在北国洪羊洞，望乡台第三层那才是真。父本当与我儿多把话论，怕的是天明亮难以回程"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨继业下，二鬼卒同下。五更鼓。家院上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "元帅醒来"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄导板",
+          "content": "适才间遇我父来到宋营"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "醒来时不由我遍体汗淋"
+        }
+      ],
+      "stats": {
+        "line_count": 13,
+        "lyric_ratio": 0.77,
+        "stage_direction_count": 5
+      }
+    },
+    {
+      "scene_id": 3,
+      "title": "派孟良盗骨",
+      "characters_on_stage": [
+        "杨延昭",
+        "家院",
+        "孟良"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "宣孟二爷进帐"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "孟二爷进帐"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "念",
+          "content": "不听皇王诏宣，单听杨家令传"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "参见元帅"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "贤弟少礼，请坐"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "谢坐。唤末将进帐，有何军情？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "贤弟有所不知，昨日三更，偶得一梦，只见我父与我托兆，言道前番盗骨，乃是假的"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "真的呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "真骸骨，现在北国洪羊洞望乡台第三层，那才是真。我有意命贤弟，二下番营盗骨，不知贤弟意下如何？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "末将好比元帅跨下之骑，扬鞭就走，停鞭即止，听元帅传令"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "好，贤弟听令："
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "在"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "念",
+          "content": "我命贤弟到北番"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "念",
+          "content": "行走哪怕路途难"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "念",
+          "content": "但愿盗得尸骨转"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "念",
+          "content": "凌烟阁上美名传"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "好，好一个“凌烟阁上美名传”。小心了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "是"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭、孟良同下"
+        }
+      ],
+      "stats": {
+        "line_count": 20,
+        "lyric_ratio": 0,
+        "stage_direction_count": 2
+      }
+    },
+    {
+      "scene_id": 4,
+      "title": "焦赞暗随",
+      "characters_on_stage": [
+        "焦赞",
+        "家院"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "焦赞上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "念",
+          "content": "事不关心，关心则乱"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "念",
+          "content": "忙将机密事，报与老爷知"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "启禀老爷：元帅令孟二爷，二下番营盗骨"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "前番盗过了"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "乃是假的"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "真的呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "在北国洪羊洞望乡台第三层，那才是真"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "起过了。元帅元帅，这就是你的不是。想我弟兄二人，焦不离孟，孟不离焦。为何今日差他一人前去？我自有道理。家院，倘若元帅要问，就说我染病在床"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "夫人若问？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "就说我染病在床。带马"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院带马"
+        },
+        {
+          "type": "lyric",
+          "speaker": "焦赞",
+          "mode": "西皮摇板",
+          "content": "元帅做事差又差，差了孟良不差咱。家院带过爷的马，这场功劳岂让他"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院带马，焦赞、家院同下"
+        }
+      ],
+      "stats": {
+        "line_count": 15,
+        "lyric_ratio": 0.27,
+        "stage_direction_count": 3
+      }
+    },
+    {
+      "scene_id": 5,
+      "title": "孟焦赶路",
+      "characters_on_stage": [
+        "孟良",
+        "焦赞"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "孟良",
+          "mode": "西皮快板",
+          "content": "元帅昨晚得一梦，遇见了白发老元戎。他言道：前番盗骨乃是假，真骸骨现在北国洪羊洞，望乡台上第三层。马鞭催动我的马走龙，盗回尸骨立头功"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良下"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "焦赞上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "焦赞",
+          "mode": "西皮快板",
+          "content": "宋王爷坐江山风调雨顺，全凭着杨家将扶保乾坤。孟仁兄施板斧狼烟扫尽，俺焦赞施钢鞭保定乾坤。催马加鞭往前进，盗不转尸骨誓不回程"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "焦赞下"
+        }
+      ],
+      "stats": {
+        "line_count": 6,
+        "lyric_ratio": 0.67,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 6,
+      "title": "洪羊洞遇程宣",
+      "characters_on_stage": [
+        "程宣",
+        "孟良",
+        "焦赞"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "念",
+          "content": "生在南朝长在番，思想故土难得还。老母望儿不能见，儿想老母难上难"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "在下程宣。当年跟随老王，大战唐二虎，多蒙太后，不忍杀害，与我当一名更夫，看守洪羊洞。就此走走，走吓"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "呔！你可是奸细？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "爷爷饶命，我不是奸细，我是这里的更夫"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "起来"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "多谢爷爷"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "我听你讲话，不像此地人氏"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "本不是此地人氏，乃南朝人氏"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "怎样到此？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "当年跟随老王，大战唐二虎，流落在此"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "我且问你，洪羊洞今在何处？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "随我来，就在前面"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "你可想回转南朝？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "想倒想，就是缺少盘费"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "等你孟二爷回来，将你带回南朝"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良下。焦赞上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "呔！可曾看见一红脸大汉过去？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "方才过去"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "闪开了！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "焦赞下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "哎呀，且住。我看这黑脸大汉，不是好人，定是刺杀孟二爷的。待我从小道而去，与孟二爷送信，就此走走"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣下"
+        }
+      ],
+      "stats": {
+        "line_count": 24,
+        "lyric_ratio": 0,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 7,
+      "title": "误杀焦赞孟良自刎",
+      "characters_on_stage": [
+        "孟良",
+        "焦赞",
+        "程宣"
+      ],
+      "segments": [
+        {
+          "type": "lyric",
+          "speaker": "孟良",
+          "mode": "内西皮导板",
+          "content": "北国有个洪羊洞"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "孟良",
+          "mode": "西皮快板",
+          "content": "千里迢迢路不通。扬鞭催动马走龙，只见它锁上又加封。板斧劈开洪羊洞，只见里面黑洞洞。一进二进连三进"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "焦赞上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "焦赞",
+          "mode": "西皮摇板",
+          "content": "后面来了焦克明"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "焦赞",
+          "mode": "白",
+          "content": "且住，有大马在此，想是二哥在里面，待我进去吓他一下。呔！拿奸细"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "看斧！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良劈死焦赞。焦赞下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "适才有人喊道“拿奸细”，被我一斧劈倒，待我拖出洞外看看"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良看"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "哎呀，不好了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "孟良",
+          "mode": "西皮摇板",
+          "content": "一见贤弟丧了命，怎不叫兄痛在心。哭、哭一声焦贤弟，叫、叫一声焦克明，休怪佩仓下绝情"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "二爷可曾看见一黑脸大汉？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "被我一斧将他劈死"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "早就该死"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "咳，你可认得他？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "他是煤炭店的老板"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "他就是三关的焦二爷，被我一斧将他劈死"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "你将焦二爷劈死，如何去见元帅？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "这个……程宣你可要回转天朝？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "想倒想回去，缺少盘费"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "这有散碎银两，还有匣儿一个，顶在头上，见了元帅，去掉匣儿，方可下跪。倘若元帅问到，你说我另有公干去了"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "有何为证？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "现有板斧为证，你快去收拾收拾"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "待我去收拾收拾行旅"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "且住，焦赞一死，叫我有何脸面，去见元帅。也罢，不免拜谢圣恩，寻个自尽了罢"
+        },
+        {
+          "type": "lyric",
+          "speaker": "孟良",
+          "mode": "西皮摇板",
+          "content": "走上前来拜君恩，回头再谢元帅情。可叹焦赞误丧命"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孟良",
+          "mode": "白",
+          "content": "也罢"
+        },
+        {
+          "type": "lyric",
+          "speaker": "孟良",
+          "mode": "西皮摇板",
+          "content": "弟兄作鬼一路行"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "孟良用斧自刎，下。程宣上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "二爷，咱们一同走罢。呵呀，二爷怎么自刎了？吓，我明白了。孟二爷将焦二爷劈死，也无有脸面，去见元帅，故此自刎洪羊洞。待我把他二人掩埋起来"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣埋"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "好呢，埋好了。哎呀，这里还有两匹马。待我骑上一匹，再拉上一匹，这叫做富贵有余"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣哦喝下"
+        }
+      ],
+      "stats": {
+        "line_count": 36,
+        "lyric_ratio": 0.31,
+        "stage_direction_count": 7
+      }
+    },
+    {
+      "scene_id": 8,
+      "title": "杨延昭闻报病倒",
+      "characters_on_stage": [
+        "杨延昭",
+        "家院",
+        "程宣"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "孟良盗骨无音信，好叫本帅挂在心"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院引程宣同上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "少站一时。启禀元帅：小番要见"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "传"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "小番，元帅传你，小心了"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "是。元帅在哪里，元帅在哪里？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "哽，胆大小番，见了本帅，为何不跪？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "去掉盒儿，方可下跪"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "来，将盒儿去掉"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院去盒"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "“令公尸骨”。啊呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "见尸骨不由我泪双流，怎不叫人咬指头。鲜血淋淋尸骨透，禀明了太君快把骨收"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "参见元帅"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "罢了"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "谢元帅"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "你叫什么名字？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "小人叫程宣"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "程宣，你奉何人所差？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "奉孟二爷所差"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "有何为证？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "有板斧为证"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "呈上来"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "是"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "将板斧收下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "家院",
+          "mode": "白",
+          "content": "是"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "你孟二爷他往哪里去了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "哦喝，元帅。孟二爷前去盗骨，焦二爷暗地跟随，孟二爷一时失手，将焦二爷劈死洪羊洞"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "你待怎讲？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "劈死洪羊洞"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "听说焦赞丧番营，汗马功劳一旦倾"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "焦赞一死，孟二爷他往哪里去了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "哦喝，元帅。孟二爷将焦二爷劈死，无有脸面，来见元帅，他自刎在洪羊洞"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "你待怎讲？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "他自刎在洪羊洞"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄导板",
+          "content": "听说是二贤弟命丧北洲"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "叫头",
+          "content": "焦赞，孟良，哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "好似钢刀刺心头。叫程宣到北国去般尸首"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "遵命"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "转来"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "程宣",
+          "mode": "白",
+          "content": "在"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "一路上要小心及早回头"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "程宣下"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "一霎时腹内痛心血上呕"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭吐"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "浑身上下冷溲溲。家院搀扶我上房来走，怕的是保宋室不能到头"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "家院搀杨延昭同下"
+        }
+      ],
+      "stats": {
+        "line_count": 48,
+        "lyric_ratio": 0.29,
+        "stage_direction_count": 6
+      }
+    },
+    {
+      "scene_id": 9,
+      "title": "赵德芳射虎",
+      "characters_on_stage": [
+        "赵德芳",
+        "四太监",
+        "大太监",
+        "四大铠",
+        "虎形"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四太监、大太监引赵德芳同上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "引子",
+          "content": "驾坐清宫，听笙歌，一派嘹亮"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "念",
+          "content": "紫金冠凤翅双飘，滚龙袍玉带围腰。凹面锏文武皆怕，上金殿扬尘舞蹈"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "本御赵德芳。只因内侍报道，御妹夫身染重病，因此孤王亲自前去探病。内侍，吩咐御林军摆驾伺候"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "大太监",
+          "mode": "白",
+          "content": "御林军走上"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四大铠同上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "带马"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄原板",
+          "content": "我本是玉金枝大宋后根，保定了我叔父锦绣龙庭。内侍报御妹夫身染重病，因此上我这里亲自来临。耳边厢又听得虎声盈盈"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "虎形上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "又只见那猛虎下山林。左拿弓右搭箭射准虎影"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "众人追虎形同下"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "这也是那猛虎自送残生"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "赵德芳下"
+        }
+      ],
+      "stats": {
+        "line_count": 13,
+        "lyric_ratio": 0.46,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 10,
+      "title": "三星归位",
+      "characters_on_stage": [
+        "杨延昭",
+        "杨宗保",
+        "赵德芳",
+        "佘太君",
+        "柴夫人"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "内白",
+          "content": "搀扶了"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨宗保搀杨延昭同上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄慢板",
+          "content": "我杨家保宋主心血用尽，最可叹焦孟将他命丧番营。宗保儿搀为父病房来进，休得要惊动了年迈太君"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "赵德芳、大太监、四大铠同上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "来至在郡马府忙下金镫"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四大铠、大太监同下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "白",
+          "content": "迎接千岁"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "宗保免礼且平身。问宗保你的父何处养静？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "白",
+          "content": "现在病房"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "带路"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "又只见御妹夫瞌睡沉沉"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "醒来"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "适才间在荒郊闲游散闷，遇见了一官长放雕翎。对准我前心射一箭，险些丧了命残生。猛然间睁开了昏花眼"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "嗳"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "我面前站定了对头人。我和你一无有冤二无有怨恨，你、你、你，你不该放雕翎射我的前心"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "哦"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "听罢言来才知情，却原来那猛虎是他本命星君。我与你好亲眷无有伤损，休把孤当作了放箭之人"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "哦"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "八千岁驾临门恕臣有病"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "宗保"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "宗保儿上前去替父参君"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "白",
+          "content": "参见千岁"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "平身"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "白",
+          "content": "千千岁"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "赐坐"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "白",
+          "content": "谢坐"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "赵德芳",
+          "mode": "白",
+          "content": "哎，御妹夫，这病体从何而起？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "哎"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "哭",
+          "content": "贤爷吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄慢板",
+          "content": "自那日朝驾归安然睡定，三更时梦见了年迈爹尊。臣前番命孟良尸骸搬请，尽都是萧天佐弄假成真。真尸骨在北国洪洋洞，望乡台第三层那才是真。二次里命孟良番营来进，又只见焦克明他私自后跟。老军报他二人在洪羊洞丧命，去了我左右膀难以飞行。为此事终日里忧成此病，因此上臣的病重加十分，千岁爷吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄原板",
+          "content": "御妹夫休得要珠泪淋淋，哪有个人死后又能复生。叫宗保到后堂急忙相请，请出了儿的母与祖母娘亲"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "赵德芳下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "白",
+          "content": "有请祖母、娘亲"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "佘太君、柴夫人同上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "佘太君",
+          "mode": "二黄摇板",
+          "content": "听说宗保一声请"
+        },
+        {
+          "type": "lyric",
+          "speaker": "柴夫人",
+          "mode": "二黄摇板",
+          "content": "急忙上前问分明"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "佘太君",
+          "mode": "白",
+          "content": "我儿醒来"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "耳边厢又听得有人声音"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "哭",
+          "content": "娘吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "猛抬头又只见年迈娘亲。老娘亲所生我兄弟七个，到如今白发人反送了儿黑发的身，儿的娘吓，好不伤情！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "柴夫人",
+          "mode": "哭",
+          "content": "哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "柴夫人近前来夫有话论，必须要早晚间侍奉娘亲"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨宗保",
+          "mode": "哭",
+          "content": "爹爹吓！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "宗保儿跪床前听父教训：必须要秉忠心扶保乾坤。柴夫人，宗保儿，将我搀定，杨延昭离病床叩谢龙恩。再不能与我主把狼烟扫尽，再不能与我主在那万马军营。叩罢头抽身起站立不稳"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "四鬼同上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "我面前站定了许多鬼魂。焦克明在一旁心怀愤愤，那孟、孟、孟佩仓笑嘻嘻，拱手相迎。小岳胜在一旁威风凛凛"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "杨延昭",
+          "mode": "白",
+          "content": "啊"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "猛抬头又只见去世爹尊。老爹爹在阴曹慢慢相等，等候了你六郎儿一路同行。叩罢头来抽身起心血上奔"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭吐，三吐"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "佘太君",
+          "mode": "白",
+          "content": "保重了"
+        },
+        {
+          "type": "lyric",
+          "speaker": "杨延昭",
+          "mode": "二黄摇板",
+          "content": "无常到万事休去见先人"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "杨延昭死，四鬼引杨延昭同下。佘太君、柴夫人、杨宗保同哭。赵德芳上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "佘太君",
+          "mode": "二黄摇板",
+          "content": "一见我儿丧了命"
+        },
+        {
+          "type": "lyric",
+          "speaker": "柴夫人",
+          "mode": "二黄摇板",
+          "content": "怎不叫人痛在心"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "劝太君休得要珠泪淋淋，这一付千斤担有我担承。急忙忙将老帐二堂摆定"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "佘太君、柴夫人同下"
+        },
+        {
+          "type": "lyric",
+          "speaker": "赵德芳",
+          "mode": "二黄摇板",
+          "content": "叫宗保随定孤去见当今"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "赵德芳、杨宗保同下"
+        }
+      ],
+      "stats": {
+        "line_count": 62,
+        "lyric_ratio": 0.65,
+        "stage_direction_count": 9
+      }
+    }
+  ]
+}

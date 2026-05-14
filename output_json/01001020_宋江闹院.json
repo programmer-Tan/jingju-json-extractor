@@ -1,0 +1,2063 @@
+{
+  "metadata": {
+    "file_id": "01001020_宋江闹院",
+    "title": "宋江闹院",
+    "period": "北宋",
+    "total_scenes": 3
+  },
+  "characters": [
+    {
+      "name": "宋江",
+      "role_type": "老生",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "中年",
+      "personality_keywords": [
+        "宽厚",
+        "仗义",
+        "急躁"
+      ],
+      "identity": "郓城县刑房书吏"
+    },
+    {
+      "name": "阎惜姣",
+      "role_type": "旦",
+      "role_subtype": "花旦",
+      "gender": "女",
+      "age_range": "青年",
+      "personality_keywords": [
+        "轻浮",
+        "泼辣",
+        "歹毒"
+      ],
+      "identity": "宋江外室，土娼"
+    },
+    {
+      "name": "张文远",
+      "role_type": "丑",
+      "role_subtype": "",
+      "gender": "男",
+      "age_range": "青年",
+      "personality_keywords": [
+        "好色",
+        "轻浮",
+        "奸诈"
+      ],
+      "identity": "宋江的徒弟，县衙小吏"
+    },
+    {
+      "name": "众人",
+      "role_type": "",
+      "role_subtype": "",
+      "gender": "未知",
+      "age_range": "未知",
+      "personality_keywords": [],
+      "identity": "街坊邻舍/衙役"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "title": "",
+      "characters_on_stage": [
+        "张文远",
+        "阎惜姣"
+      ],
+      "segments": [
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张文远上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "念",
+          "content": "惜的的，爱的的，私通阎婆惜"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "在下张文远，今拜宋江门下为徒。我与那阎婆惜眉来眼去，两下苟合。今日闲暇无事，不免到乌龙院走走。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "二黄平板",
+          "content": "摇摇摆摆摆摆摇，摇摇摆摆过小桥。一步儿来至在乌龙院，叫声大姐快开门。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "大姐开门来！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "内白",
+          "content": "来了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "阎惜姣上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "二黄平板",
+          "content": "忽听得双环响一声，不知来的是何人。用手儿开开了门两扇，"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张文远进门"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "妙啊，妙啊！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "二黄平板",
+          "content": "有劳大姐礼相迎。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "二黄平板",
+          "content": "搬一把椅儿三郎坐，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "二黄平板",
+          "content": "大姐几日可安宁？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "二黄平板",
+          "content": "问三郎为何不到乌龙院？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "二黄平板",
+          "content": "衙前惧怕一个人。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "二黄平板",
+          "content": "问三郎怕的哪一个？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "二黄平板",
+          "content": "怕的师傅宋公明。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "二黄平板",
+          "content": "那宋江他是狼来他是虎？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "二黄平板",
+          "content": "非狼非虎，惧怕他三分。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "三郎你可好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "我好，大姐你可好?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我也好。三郎这几日，为何不到乌龙院中走走？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "衙前有事，少来拜望。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "这也难怪"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "啊，大姐，手中拿的是什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "红绣花鞋。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "是哪个穿的？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我妈穿的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "妈儿娘老大年纪，怎么穿红绣花鞋？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "今天十四，明天十五，是我妈的生日。做双花鞋，与她老人家上寿的"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "不是大姐提起，我倒忘怀了。如此说来，我明日礼到人不到。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "是要你的人来。礼不来，不要紧的"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "如此说来，我礼到人又来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "这不结了吗！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "啊，大姐，你可晓得我的来意？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你要怎么样？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "我要与你高兴高兴。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你猜我呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "大姐越发的要高兴高兴。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我今天有点不高兴。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "告辞。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "三郎你回来。你上哪里去？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "大姐今天不高兴，我等你高兴，我再来呀。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我跟你闹着顽的"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "你跟我闹着顽，唬了我一身的冷汗。正是："
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "念",
+          "content": "东边日出西边雨，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "念",
+          "content": "大姐说我情来越有情。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "三郎随我来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "来了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张文远、阎惜姣同下"
+        }
+      ],
+      "stats": {
+        "line_count": 82,
+        "lyric_ratio": 0.22,
+        "stage_direction_count": 4
+      }
+    },
+    {
+      "scene_id": 2,
+      "title": "",
+      "characters_on_stage": [
+        "众人",
+        "宋江",
+        "阎惜姣",
+        "张文远"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "内同白",
+          "content": "退堂呢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "内白",
+          "content": "列位少陪了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "宋江上"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "大老爷打罢了退堂鼓，衙前来了宋公明。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "卑人宋江，在这郓城县，当了一名刑房。今日闲暇无事，不免到乌龙院中走走。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "那一日打从在大街上，偶遇好汉叫刘唐。他把那实言对我讲，请我梁山去为王。一步儿来至在大街上，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "mode": "内同白",
+          "content": "啊，列位，你们来看前面走的张文远，后面跟的宋公明。师徒二人，同走一条道，令人好笑，哈哈哈！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "又听得那邻舍说短道长。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎呀，且住。听他们街坊邻舍言道：“前面走的张文远，后面跟随宋公明。师徒二人，同走一条道路。”莫非张文远这小奴才，也到乌龙院中走走。嗳，是非终朝有，不听自然无。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "自古道是非终朝有，耳不听来自然无。一步儿来至在乌龙院，青天白日把门关。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "啊？青天白日为何将门紧闭？待我上前叫门。大姐开门来。呔！大姐开门来！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "阎惜姣上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "什么人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "啊？宋大爷声音，难道听不出来了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎，宋大爷来呢。你今天来得不凑巧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "怎么来得不凑巧？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "钥匙不在我身上。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "在哪一个身上？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "在我妈身上。你改日再来吧！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呀呸！快快到妈儿娘房中，将钥匙取来开门。快去！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "晓得了，你等一会儿。三郎快来！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张文远上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "哎，大姐什么事？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "不好呢，你师父来了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "咳呀，这便怎么处？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "不要紧，你在我妈房里躲一会儿。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "快些打发他走啊！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "快些！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "来了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "为何这样慢腾腾的，待我打进去！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "阎惜姣开门，宋江进门，东看西看"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎哎哎，宋大爷，你进得院中，东照西望，难道我这院中，有什么歹人不成？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "不是啊。宋大爷往日进得院来，扫地挂画。今日进得院来，地也不扫，画也不挂。来个朋友，像个什么样儿？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷，我啊不知道你今天要来。我知道你要来呀，地也扫了，画也挂了。我没打算你来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦，大姐不打算我来，我倒偏偏地来了。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "阎惜姣坐下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎，大姐，这就是你的不是了。宋大爷进得院来，你就该搬个椅儿过来，让你宋大爷坐下，才是你的道理。怎么你自己倒先坐下了。轻慢你宋大爷，怠慢你宋大爷，真是岂有此理！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷，这边有的是凳子，那边有的是椅子，自己不会坐下，难道叫我搂住你，抱住你？来来来吃点奶奶吧？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎呀呀，这倒不消了。哎呀，是啊。这边有的是凳子，那边有的是椅子，我自己不会坐下，难道叫她搂住我，抱住我，自讨无趣？待我自己坐下。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "宋江、阎惜姣同坐椅子"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷你这怎么呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "花钱的老爷们儿就欢喜这个调调儿。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你猜我呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐么，你也喜欢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我就恼得这个调调儿。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐不欢喜这个调调儿，我就免了这个调调儿。大姐你可好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我没有病，怎么不好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我也好。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "谁问你呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我问过大姐，大姐必要问我。我替大姐说了，省得大姐你劳神。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哪里这么些淡话？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐手里拿的什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你的帽子。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "分明是鞋子，怎么是帽子？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你知道么你问？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哪一个穿的？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我妈穿的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "妈儿娘偌大年纪，穿什么红绣花鞋？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "今天十四，明天十五，我妈生日，做双花鞋与我妈上寿的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦，不是大姐提起，我倒忘怀了。明日我礼到人不到。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "是要礼到，人不来不要紧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "如此，我礼到人不来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你来不来不要紧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐，闻得你一双巧手，今日要见识见识。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "一双花鞋有什么好看？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "看看也不要紧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你要看拿去。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "拿来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "好脏的手！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦，我的手脏了。时才在衙内，抄写墨卷，未曾洗手，待我洗洗干净。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "拿去！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎，大姐这就是你的不是了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你又挑眼了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "你方才嫌我的手脏，如今你把它丢在地下，难道他就不脏了么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷你不要生气。常言道的好：洗手净指甲，作鞋泥里踏。终久它是要坏的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "是啊，“洗手净指甲，作鞋泥里踏。”终久它是要坏的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你往哪里指？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我说这个鞋子。待我来看看。果然做的不错呀，好，拿去罢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你还知道好歹吗？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "为人在世，哪有不知道好歹的道理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "它是怎么好？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "花儿也好，样儿也好，做的也好，这叫做好好好！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "一点不好没有么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "就有一样。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哪一样？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "颜色不对。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "颜色不对，你就不该来。你拿过来罢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "宋大爷往日进得院来，你欢天喜地。今日进得院来，面带忧愁，莫非有什么心事不成？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "没有心事。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "一定有心事。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "慢说没有心事，纵有心事，你也猜不着。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "慢说大姐心事，就是我父母太爷的心事，不猜便罢……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "要猜呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "猜他个八九不离十。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你不要猜。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "一定要猜。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你就猜。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐听了："
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "宋公明打坐在乌龙院，猜一猜大姐肺腑情。莫不是茶饭不随你的口？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷，你这头一猜……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "猜着了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "猜错了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "怎么猜错呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "想我们平等人家，吃的是鸡鸭鱼肉，还要吃什么龙肝凤目不成？不是的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦，猜错了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "猜错了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "听了。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "莫不是衣裳不遂你的身？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷，你这第二猜……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "猜着了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你又猜错了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "怎么又猜错呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "想我们平等人家，穿的是绫罗绸缎。难道呀穿什么描龙绣凤不成？不是的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦？不是的。再猜。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "莫不是街坊邻居得罪了你？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "想那街坊是好街坊，邻居是好邻居。慢说我得罪不着他们，就是得罪他们，还要看宋大爷三分金面。不是的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦，又不是的。我再来猜。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "莫不是妈儿娘打骂你的身？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷，你越猜越不对了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "怎么越不对了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "想那妈儿娘，她是我的妈，打也打得，骂也骂得。不是的。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "又不是的啊。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "这不是那不是是何意见，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "啊，大姐的心事，往日一猜就猜着了，今日怎么猜不着了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你猜不着，不要猜了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我一定要猜！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "宋江、阎惜姣同做身段"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐，你过来。我这一猜，一定猜着了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "莫不是思想我宋公明？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "真有你的！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦，猜着了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "可不是猜着呢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "你是想我？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "可不是想你么！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎呀，我说大姐的心事，果然被我猜着了。请坐请坐。大姐你几时想我？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我前天就想你。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "衙前有事。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "昨天想你。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "朋友吃酒。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "今天又想你。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "今天想我，我倒偏偏地来了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "今天想得厉害。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "怎么样的厉害？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "清早起来，头也不梳，脚也不裹。前厅跑到后院，后院跑到厨房。左手拿一盆凉水，右手拿住蒜瓣。喝口凉水，咬口蒜瓣……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "这叫怎么想法？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "这叫做淡想。淡想想断了肝肠！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "啊，大姐，只怕不是想我！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我不想你谁想你？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐你想我？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你妹子想你！你姐姐想你！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呀呸！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄平板",
+          "content": "怪不得大姐人谈论，道你的言语不中听。话到舌尖留半句，说出口来你难为人！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "什么难为人？想我们妇道人家，一要走得正，二要走得端，三条大路走中间！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我问你这一？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我一不作贼！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我问你这二？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "不偷人家的！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我问你这三？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "三啊？还有他妈的四呢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎！你就坏在这个三上了！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄摇板",
+          "content": "都道你私通了张……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "张什么？张什么？张什么！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "说不出口来，难为情。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "不要紧，我替你难为情。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "二黄摇板",
+          "content": "那张文远！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "张文远！张文远！你的心事，我会猜不着！提起那张文远，你看他这个样儿，叫我们花钱的老爷们，好不寒心哪！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "二黄平板",
+          "content": "被他猜破肺腑情。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎呀，他怎么会晓得了？这怎么好？有呢，待我去灌灌米汤。哎呀，我说这个宋大爷……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呀呸！哪个不叫我宋大爷，要你来叫我宋大爷？宋大爷呀，还宋二爷呢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷不好，宋先生……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呀呸！哪个不叫我宋先生，要你来叫我宋先生？真真岂有此理！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎呀，宋先生……不好，还是宋大爷……，我说宋大爷，我不会吃酒，清早起来，吃了几杯早酒，酒言酒语，得罪你了。我跟你闹着玩的。谁晓得你不经玩，一玩就炸呢！哎呀，我说宋大爷啊！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哦？你是与我做耍的？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "可不是闹着玩的！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎呀，唬了我一头的冷汗呢！请坐。大姐，从今以后，酒要少饮。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我戒酒了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "少吃些就是了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我一点也不吃了。宋大爷，你方才说张……张什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "张文远。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "张文远是你什么人？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "是我的小徒。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "是你的小徒。白日在街内做什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "抄写墨卷。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "到晚来？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "抵足而眠。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷你这话漏了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "漏了我房东。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "什么“我房东”？你的话头漏了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "漏了什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我看别人没有私通张文远，我看你私通张文远了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "世间之上，自有男子私通女子，哪有男子私通男子的道理？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你没有私通张文远，你猜我呢？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "大姐么，也不能够！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "那么谁公通张文远？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "是啊，哪一个私通张文远？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "眼前有一人，私通张文远，你不敢惹她！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哪一个我宋江不敢惹她？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你的姐姐私通张文远！你的妹妹私通张文远！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呀呸！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮导板",
+          "content": "一言怒恼宋公明！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "宋江、阎惜姣碰椅子"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "阎大姐！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "阎惜姣！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋公明！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "阎婆惜！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋江！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哈哈哈！我宋江的名字，你倒叫起来了。我把你这个狗淫妇！狗淫妇！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎呀，我把你这死乌龟！你们看他像不像！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呵呵！我宋江花了许多银钱，落了个忘八二字！咳！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮原板",
+          "content": "骂一声阎惜姣无耻的贱人！曾记得在家遭荒旱，你一家逃难来到了郓城。遭不幸你的父丧了命，无银钱买棺木葬尔的天伦。尔的母没奈何将你卖，卖了那身价葬尔的先人。清早起卖到午时后，午时卖到夜黄昏。大街小巷俱卖尽，并无有一人问一声。大老爷打罢了退堂鼓，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮快板",
+          "content": "衙前来了宋公明。三十两银子将你卖，买回家来度光阴。我为你造下了乌龙院，我为你花下了许多银。我为你父母堂上难行孝，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你就该天打雷劈！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "呀呸！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮快板",
+          "content": "我为你失散了夫妻情。怒气不息将你打！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你要打谁？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我要打你！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我告诉你，太太好吃好穿没见过，好打见过的！我打个样儿与你看看！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "定要打你！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "宋江、阎惜姣碰膀子"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "呀吓！踹了我的脚了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "怎么样了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你走开去吧！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮快板",
+          "content": "越思越想越伤心。一怒赶出乌龙院！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我就走！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "西皮快板",
+          "content": "阎婆惜到处有宾朋。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮快板",
+          "content": "任你跑到天边远，难逃宋江掌握中！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "谅不就！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "谅的就？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎呀！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮快板",
+          "content": "从今后我不进乌龙院！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "再来呢？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮快板",
+          "content": "情愿对天把誓盟！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我不信！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "我就对……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我就跪……"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎，大姐我是与你做耍的。你怎么跪下了？来个朋友，看见像什么样儿？你起来吧！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "我也不是三岁两岁小孩，让你打哭呢，哄乐呢！你与我跪下罢！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "哎！"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮摇板",
+          "content": "双膝跪在尘埃地，过往神灵听分明：从今后再进乌龙院，"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "怎么样？"
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "西皮摇板",
+          "content": "药酒毒死我宋公明！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你走出去！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "嗳，我与她恩爱夫妻，争吵几句，说什么不来？待我转去……啊？这贱人已经将门紧闭。哎！大丈夫做事，提得起，放得下。这烟花之地，来不来，有什么要紧？说不来我就不来了。嗳？说什么不来？想这乌龙院，乃是我银钱所造，阎惜姣是我银钱所买，我宋江不来，是哪个敢来？从今以后，无有风吹草动便罢，若有风吹草动，我就是这一刀结束尔的狗命！正是："
+        },
+        {
+          "type": "lyric",
+          "speaker": "宋江",
+          "mode": "念",
+          "content": "当初不听朋友劝，失足上了无底船。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "宋江",
+          "mode": "白",
+          "content": "受了许多的腌臜的气。哎！花了许多昧心钱。列位老爷们，你们哪个要来只管来走走，我宋江是不来了，我一定不来了。嗳！我是再也不来了！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "宋江下"
+        }
+      ],
+      "stats": {
+        "line_count": 268,
+        "lyric_ratio": 0.21,
+        "stage_direction_count": 10
+      }
+    },
+    {
+      "scene_id": 3,
+      "title": "",
+      "characters_on_stage": [
+        "阎惜姣",
+        "张文远"
+      ],
+      "segments": [
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "宋大爷！宋江！哎呀，真走了！待我开开门，看看走呢！三郎快来！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张文远上"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "我师父可曾走了？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你师父走了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "我也要去了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你回来！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "作什么？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你还愿意作长久夫妻，还是愿意作短头夫妻？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "长头夫妻怎说？短头夫妻怎讲？"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "短头夫妻，你今个去了，不要来了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "我舍不得大姐。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "你舍不得我，我也舍不得你。闻听人说宋江私通梁山，你在外头访，我在家里访。访出此事，将他送入当官，你我就是长久夫妻了！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "好，我告辞了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "回来。我看看有人没人。"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "阎惜姣看"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "没有人。正是："
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "念",
+          "content": "二人定计二人知，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "念",
+          "content": "休要走漏这消息。"
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "念",
+          "content": "但愿害得宋江死，"
+        },
+        {
+          "type": "lyric",
+          "speaker": "张文远",
+          "mode": "念",
+          "content": "你我夫妻顷刻离。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "哎呀，永不离！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "张文远",
+          "mode": "白",
+          "content": "不错，永不离。请吓，请吓！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "张文远下"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "阎惜姣",
+          "mode": "白",
+          "content": "正是：宋江啊，宋江，管叫你："
+        },
+        {
+          "type": "lyric",
+          "speaker": "阎惜姣",
+          "mode": "念",
+          "content": "明枪容易躲，暗箭最难防！"
+        },
+        {
+          "type": "stage_direction",
+          "speaker": null,
+          "mode": "",
+          "content": "阎惜姣下"
+        }
+      ],
+      "stats": {
+        "line_count": 32,
+        "lyric_ratio": 0.16,
+        "stage_direction_count": 4
+      }
+    }
+  ]
+}
