@@ -25,9 +25,9 @@ def clean_text(text: str) -> str:
         # 删除纯数字行（页码）
         if re.match(r'^\s*\d+\s*$', line):
             continue
-        # 删除短标题行如“空城计·第一场”
-        if re.match(r'^\s*【?.*?[场回]】?\s*$', line) and len(line) < 30:
-            continue
+        # # 删除短标题行如“空城计·第一场”
+        # if re.match(r'^\s*【?.*?[场回]】?\s*$', line) and len(line) < 30:
+        #     continue
         # 不再删除包含“戏考”、“整理”等字样的行，因为它们是重要的边界标记
         # if re.search(r'(戏考|整理|根据|校注|页眉|页码)', line):
         #     continue

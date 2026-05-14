@@ -52,42 +52,30 @@ def extract_json_robust(raw: str) -> dict:
             pass
     raise ValueError(f"无法提取JSON。原始内容前500字符: {raw[:500]}")
 
-@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=2, min=10, max=60))
-async def extract_json_from_text(play_text: str, file_id: str, max_tokens=8200) -> dict:
-    """异步调用大模型，支持截断重试"""
-    current_text = play_text
+# 注意：不再使用 @retry，因为我们要一次性成功，失败就记录并移动文件
+async def extract_json_from_text(play_text: str, file_id: str, max_tokens=16000) -> dict:
+    """
+    异步调用大模型，max_tokens 增大到 16000 以减少截断可能。
+    不进行多次重试，一旦失败或截断，直接抛出异常。
+    """
+    print(f"[DEBUG] 调用API，文本长度: {len(play_text)}")
+    response = await client.chat.completions.create(
+        model=MODEL_ID,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT + " 输出一个紧凑的JSON对象（不要换行和多余空格），不要有任何额外内容。"},
+            {"role": "user", "content": f"输出紧凑JSON，不要任何其他文字。\n剧本：\n{play_text}\n文件ID：{file_id}"}
+        ],
+        temperature=0.1,
+        max_tokens=max_tokens,
+    )
+    content = response.choices[0].message.content
+    print(f"[DEBUG] 返回内容长度: {len(content)} 字符")
     
-    for attempt in range(3):  # 最多尝试3次缩小输入
-        if len(current_text) > 12000:
-            limit = 12000 - attempt * 2000
-            current_text = play_text[:limit] + "\n...[中间省略]...\n" + play_text[-2000:]
-        
-        print(f"[DEBUG] 调用API，文本长度: {len(current_text)}，尝试 {attempt+1}/3")
-        response = await client.chat.completions.create(
-            model=MODEL_ID,
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT + " 输出一个紧凑的JSON对象（不要换行和多余空格），不要有任何额外内容。"},
-                {"role": "user", "content": f"输出紧凑JSON，不要任何其他文字。\n剧本：\n{current_text}\n文件ID：{file_id}"}
-            ],
-            temperature=0.1,
-            max_tokens=max_tokens,
-        )
-        content = response.choices[0].message.content
-        print(f"[DEBUG] 返回内容长度: {len(content)} 字符")
-        
-        if is_truncated_json(content):
-            print(f"[WARN] JSON被截断，尝试缩小输入文本")
-            continue
-        
-        try:
-            data = extract_json_robust(content)
-            data["metadata"]["file_id"] = file_id
-            return data
-        except ValueError as e:
-            if attempt == 2:
-                raise ValueError(f"解析失败，原始内容保存到 error_log/{file_id}_raw.txt") from e
-            else:
-                print(f"[WARN] 解析失败，重试中: {e}")
-                continue
+    # 检测是否截断
+    if is_truncated_json(content):
+        raise ValueError(f"JSON被截断，返回内容长度 {len(content)}，可能需要更大的 max_tokens")
     
-    raise ValueError(f"经过3次重试仍无法获得有效JSON，文件: {file_id}")
+    # 解析JSON
+    data = extract_json_robust(content)
+    data["metadata"]["file_id"] = file_id
+    return data
